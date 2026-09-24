@@ -24,9 +24,18 @@ Denim construction requires immense strength. Explores the history of thread (fr
 A comprehensive guide to the specialized industrial sewing machines required for bespoke denim. Features the "holy grail" machines favored by masters like Ben Viapiana, including the Union Special 43200G (hemming), Juki LK-1854 (bartacking), and Reece 101 (buttonholes).
 
 ### 5. ✂️ [Pattern & Construction: The 5-Pocket Jean](PATTERN.md)
-The core open-source pattern of this handbook. Outlines fabric requirements, zero-waste cutting philosophies (inspired by Mohsin Sajid), and the step-by-step order of operations for sewing a pair of jeans from start to finish using the machines detailed in Chapter 4.
+The core open-source pattern of this handbook. Outlines fabric requirements, zero-waste cutting philosophies, and the step-by-step order of operations. *(See the [Patterns Folder](patterns/INDEX.md) for actual digital files).*
 
-### 6. 🌍 [Community & Recommended Viewing](COMMUNITY.md)
+### 6. 🔘 [Hardware: Buttons, Rivets & Zippers](HARDWARE.md)
+A breakdown of the structural hardware that makes denim unbreakable, from hidden rivets and washer burrs to the WWII laurel wreath buttons and the Button vs. Zip fly debate.
+
+### 7. 🛁 [Care: Washing & Maintenance](CARE.md)
+The definitive guide to caring for raw denim. Explains the crucial initial soak for unsanforized fabrics, how to properly wash jeans to maximize lifespan, and debunks common myths (like the freezer trick).
+
+### 8. 📖 [Glossary: Denim Terminology](GLOSSARY.md)
+A dictionary of the highly specific denim vocabulary, including fabric terms (Warp, Weft, Slub, Nep) and fade types (Honeycombs, Whiskers, Roping, Stacks).
+
+### 9. 🌍 [Community & Recommended Viewing](COMMUNITY.md)
 A curated index of the best open-source knowledge on the web. Includes links to deep-dive lectures by denim historians, sustainable textile documentaries, and bespoke makers who share their craft freely.
 
 ---
