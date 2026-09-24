@@ -43,7 +43,7 @@ How the cotton yarn is spun drastically changes the durability and fading charac
 - Artistic Milliners (Pakistan)
 
 ### 🇺🇸 USA
-- Cone Denim
+- Cone Denim (White Oak) - Famous for operating the legendary **Draper X3** shuttle looms which wove the iconic Levi's selvedge denim up until the plant's closure in 2017.
 
 ### 🇧🇩 Bangladesh
 - Beximco
