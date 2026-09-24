@@ -2,7 +2,7 @@
 
 While you can sew lightweight denim on a domestic machine, medium to heavyweight denim generally requires specialized or industrial machinery.
 
-## 🏭 The Core Machines & The "Holy Grails"
+## The Core Machines & The "Seminal Artifacts"
 To construct denim in a bespoke workshop (similar to makers like Ben Viapiana), you need highly specialized heavy-duty equipment. These are some of the legendary machines favored by professionals:
 
 1. **Lockstitch (Straight Stitch):** The primary workhorse. Look for "needle-feed" or "walking-foot" mechanisms to handle thick layers.
