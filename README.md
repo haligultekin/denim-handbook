@@ -5,10 +5,11 @@ A community-driven, open-source knowledge base for fashion students, makers, and
 This repository is dedicated to sharing knowledge about constructing, understanding, and making denim garments. **No brand promotions**—just pure resource sharing, techniques, education, and tools of the trade.
 
 ## Contents
+- 📜 [History (Origins & Evolution)](HISTORY.md)
 - 👖 [Fabric (Weight, Weave, Sourcing)](FABRIC.md)
 - 🧵 [Thread (Types, Weights, Colors)](THREAD.md)
 - ⚙️ [Machines (Lockstitch, Chainstitch, Bartack)](MACHINES.md)
-- ✂️ [Free Creative Commons Pattern](PATTERN.md)
+- ✂️ [Free Open-Source Pattern (The 5-Pocket Jean)](PATTERN.md)
 - 🌍 [Community & Resource Sharing](COMMUNITY.md)
 
 ## License
