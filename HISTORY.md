@@ -18,9 +18,10 @@ On **May 20, 1873**, they were granted U.S. Patent No. 139,121 for "Improvement 
 
 **The Evolution of the Fit:** The modern 5-pocket jean essentially finalized its "carbon footprint" in the **1920s**. Before this, jeans had one back pocket, curved waistbands, cinch backs, and no belt loops. By the **1920s**, belt loops were added, the cinch was phased out, and the shape we recognize today was born.
 
-**Cultural Adoption:**
-- **1870s-1910s:** Strictly worn as utility garments by miners and laborers.
+**Cultural Adoption & Key Eras:**
+- **1870s-1910s:** Strictly worn as utility garments by miners and laborers. One famous example from this era is the "Homer Campbell" 501s (circa 1917), heavily patched and repaired by a miner, showcasing the absolute reliance on denim for survival in brutal conditions.
 - **1920s-1930s:** Adopted by cowboys and rodeo stars, cementing denim in American Western mythology.
+- **1940s (WWII & The S501):** During World War II, the US Government mandated the conservation of raw materials. Levi's created the **S501** (Simplified 501), stripping the jeans of the cinch-back, the watch pocket rivets, and swapping custom hardware for generic "Laurel Wreath" donut buttons. The iconic back pocket stitching was actually *painted* on to save thread! Interestingly, despite popular myths, historians have found no evidence that GIs wore 501 jeans in actual combat.
 - **1950s:** Propelled into fashion by Hollywood icons like James Dean and Marilyn Monroe, making denim the uniform of rebellious youth.
 
 ## 🧵 The Looms: Shuttle vs. Projectile
