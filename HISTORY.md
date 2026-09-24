@@ -28,12 +28,12 @@ On **May 20, 1873**, they were granted U.S. Patent No. 139,121 for "Improvement 
 - **1970s-1980s (Designer Denim):** Denim moved completely away from workwear and into high fashion luxury. Brands like Calvin Klein and Gloria Vanderbilt popularized the tight-fitting "designer jean," shifting the focus entirely to silhouette, stretch, and branding.
 - **2000s (The Raw Denim Revival):** As a reaction to pre-distressed, mass-market jeans, internet forums (like Superfuture and StyleForum) sparked a global resurgence of "raw" (unwashed) selvedge denim. Enthusiasts celebrated breaking in their own rigid jeans to create highly personalized, high-contrast fades.
 
-## 🏆 The Big Three: American Denim's Holy Grails
-While hundreds of brands existed in the early 20th century, three companies emerged as the undeniable titans of American denim. Each pioneered specific fabrics and fits that collectors consider the "Holy Grails" of vintage clothing.
+## 🏆 The Big Three: The Holy Grails of American Denim
+While hundreds of brands existed in the early 20th century, three companies emerged as the undeniable titans. To vintage collectors and denim historians, these three brands *are* the Holy Grails of American workwear.
 
 ### 1. Levi Strauss & Co. (The Inventor)
 Levi's created the blueprint. They are synonymous with **Right Hand Twill (RHT)**, unsanforized "Shrink-to-Fit" denim, and the copper rivet.
-- **Holy Grails:**
+- **Defining Milestones:**
   - **1873 "XX" Waist Overalls:** The literal genesis of the blue jean, originally made of duck canvas.
   - **1937 501:** The introduction of the "hidden rivet" on the back pockets.
   - **1944 S501 (WWII):** The wartime jean. Stripped of rivets and featuring painted-on back pocket arcuates to save thread.
@@ -41,14 +41,14 @@ Levi's created the blueprint. They are synonymous with **Right Hand Twill (RHT)*
 
 ### 2. H.D. Lee Mercantile Co. (The Cowboy's Choice)
 Founded in Kansas, Lee leaned heavily into Western wear and comfort. They were famous for pioneering **Left Hand Twill (LHT)**, which is significantly softer than RHT, and were early adopters of **Sanforized** (pre-shrunk) denim and zip-flys.
-- **Holy Grails:**
+- **Defining Milestones:**
   - **1924 Lee 101:** Designed specifically for cowboys, featuring a U-shaped saddle crotch for riding comfort.
   - **1944 101 Cowboy Pant:** Introduced the famous "Lazy S" decorative stitching on the back pockets (resembling the horns of a Texas Longhorn).
   - **101J Rider Jacket:** Introduced in the 1930s, its short, zigzag-stitched profile became the blueprint for the modern denim jacket.
 
 ### 3. Wrangler / Blue Bell (The Rodeo Engineer)
 Wrangler (born from the Blue Bell overall company) took a highly engineered approach to denim. They hired celebrity tailor "Rodeo Ben" in 1947 to design the ultimate rodeo jean.
-- **Holy Grails:**
+- **Defining Milestones:**
   - **1947 11MWZ:** (Men's Western Zipper). Designed with flat copper rivets that wouldn't scratch saddles, deeper watch pockets, and a higher back rise to keep cowboys' shirts tucked in while riding. 
   - **1964 13MWZ (Broken Twill):** Wrangler's defining innovation. To combat the severe "leg twist" caused by the tension in standard twill, Wrangler invented **Broken Twill**, a zig-zag weave that kept the side-seams perfectly straight.
 
