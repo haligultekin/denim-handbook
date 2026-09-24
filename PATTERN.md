@@ -23,3 +23,23 @@ A standard base block designed for modification, tweaking, and learning.
 - 1x Waistband tack button (17mm - 19mm)
 - 3-4x Fly tack buttons (14mm - 15mm)
 - 6+ Copper rivets and burrs
+
+---
+
+## ✂️ Cutting & Lay Planning
+
+When laying out your pattern, you have two primary philosophies to choose from:
+
+1. **Traditional Selvedge Layout:** Align the straight outseam of the front and back leg panels perfectly with the self-finished edge of the selvedge fabric. This preserves the iconic selvedge line for when the wearer cuffs their jeans.
+2. **Zero-Waste / Experimental Layout:** Inspired by open-source designers like Mohsin Sajid, this method involves tessellating the pattern pieces (including pocket bags and waistbands) so that there is absolutely zero fabric waste left on the cutting table.
+
+## 🧵 General Order of Operations
+If you are striving for a bespoke construction (following methods by makers like Ben Viapiana), here is the standard flow of machines:
+
+1. **Prep Work:** Serge/overlock all necessary raw edges (like the fly and pocket facings) using an overlock machine (e.g., *Union Special 39200*).
+2. **Front Pockets & Fly:** Use a lockstitch machine (e.g., *Singer 31-15*) to construct the front pocket bags, attach the coin pocket, and build the button fly.
+3. **Back Yoke & Inseam:** These are typically flat-felled seams. A dedicated twin-needle feed-off-the-arm chainstitcher (e.g., *Union Special 35800*) is used to sew and fold these thick layers in one pass.
+4. **Outseam:** Sewn with a standard lockstitch, then pressed open to reveal the selvedge ID (or serged together if using wide-loom fabric).
+5. **Waistband:** Attached using a specialized waistband chainstitch machine, or carefully lockstitched.
+6. **Hardware & Reinforcement:** Buttonholes are cut and sewn (e.g., *Reece 101*). Belt loops, crotch, and pocket corners are reinforced with dense zig-zag stitches on a bartacker (e.g., *Juki LK-1854*).
+7. **The Hem:** Finally, the jeans are hemmed using a specialized chainstitcher (e.g., *Union Special 43200G*) to create the traditional "roping" effect.
