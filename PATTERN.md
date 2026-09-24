@@ -1,10 +1,10 @@
-# Open Denim Pattern
+# Denim Handbook Pattern
 
 *This pattern is released under a Creative Commons (CC BY 4.0) license.*
 
 *(Note: The physical pattern files — .pdf for home printing and .svg/.dxf for modification — will be uploaded to this directory.)*
 
-## 👖 The Open 5-Pocket Jean (Draft)
+## 👖 The Standard 5-Pocket Jean (Draft)
 
 A standard base block designed for modification, tweaking, and learning.
 

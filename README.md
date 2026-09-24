@@ -1,4 +1,4 @@
-# Open Denim 🧵
+# Denim Handbook 🧵
 
 A community-driven, open-source knowledge base for fashion students, makers, and denim lovers.
 
