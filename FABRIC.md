@@ -33,7 +33,6 @@ How the cotton yarn is spun drastically changes the durability and fading charac
 ### 🇹🇷 Turkey
 - ISKO
 - Calik Denim
-- Orta Anadolu
 
 ### 🇮🇹 Italy
 - Candiani Denim
