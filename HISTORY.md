@@ -21,7 +21,12 @@ On **May 20, 1873**, they were granted U.S. Patent No. 139,121 for "Improvement 
 - **The Modern Era:** As global demand skyrocketed in the 1960s, American manufacturers transitioned to high-speed, wide projectile looms (60" width). This made denim cheaper and faster to produce but sacrificed the selvedge edge and much of the unique, textured character of the older fabrics.
 
 ## 🇯🇵 The Japanese Denim Renaissance
-By the 1980s, the quality of mass-produced American denim had heavily declined, and authentic vintage jeans were becoming rare. A group of pioneering Japanese brands, now legendary and known as the **"Osaka 5"** (Studio D’Artisan, Denime, Evisu, Fullcount, and Warehouse), began an obsessive quest to recreate the quality of 1940s and 50s American denim.
+By the 1980s, the quality of mass-produced American denim had heavily declined, and authentic vintage jeans were becoming rare. A group of pioneering Japanese brands, now legendary and known as the **"Osaka 5"**, began an obsessive quest to recreate the quality of 1940s and 1950s American denim. The brands and their founding dates are:
+- **Studio D’Artisan (1979)**
+- **Denime (1988)**
+- **Evisu (1991)**
+- **Fullcount (1992)**
+- **Warehouse (1995)**
 
 **The Loom Myth:** A common myth states that these Japanese makers bought discarded American Draper looms. In reality, they preserved their own domestic vintage **Toyoda shuttle looms** (such as the G3). By intentionally running these looms slowly and embracing the "inefficiencies" of the old machines, they created fabrics with incredible texture, unevenness ("slub"), and character that modern mass-produced denim simply cannot replicate.
 
