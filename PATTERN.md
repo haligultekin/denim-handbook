@@ -19,10 +19,17 @@ A standard base block designed for modification, tweaking, and learning.
 - **Wide Loom (Approx 60" width):** 1.5 - 2 yards.
 - **Pocket Bag Material:** 0.5 yards (e.g., natural canvas, twill, or heavy calico).
 
-### 🧰 Hardware
-- 1x Waistband tack button (17mm - 19mm)
-- 3-4x Fly tack buttons (14mm - 15mm)
-- 6+ Copper rivets and burrs
+### 🧰 Hardware & Trims
+*Your choice of hardware dictates the historical "era" of your jeans. (See [HARDWARE.md](HARDWARE.md) for full historical context).*
+
+- **Waistband Button (1x):** 17mm - 19mm tack button.
+  - *Vintage Options:* Open-center "Donut" button or stamped "Laurel Wreath" (WWII era).
+- **Fly Closure (Choose one):**
+  - **Button Fly:** 3-4x smaller tack buttons (14mm - 15mm). *Mandatory if using unsanforized/shrink-to-fit denim to avoid zipper buckling.*
+  - **Zip Fly:** 1x heavy-duty brass or locking denim zipper (approx. 4.5" - 6" depending on the rise). *Authentic vintage reproduction brands to look for include Waldes, Talon, or Universal.*
+- **Rivets (6+ sets):** 
+  - Standard copper washer-and-burr sets.
+  - *Detailing Option:* Use "punch-through" style posts where a tuft of denim bursts through the center of the rivet for ultimate vintage authenticity. You will need 6 for the front pockets and coin pocket (plus 4 more if you are doing hidden back-pocket rivets).
 
 ---
 
