@@ -11,3 +11,8 @@ A curated list of communities, forums, educators, and makers sharing open knowle
 *(This section is for highlighting fashion students, independent makers, and educators who share techniques, patterns, and guides for free or maintain a community-first approach.)*
 
 - *(Add links to useful YouTube channels, open-source fashion blogs, and Instagram accounts focused on technique rather than sales).*
+
+## 📺 Recommended Viewing
+- **[CoatsCast Series: Threads Unpicked](https://www.youtube.com/watch?v=HvZMct4EzGo):** A deep dive with denim designer Mohsin Sajid and Troy Petit (Coats Group) on the history of denim threads, the transition from linen to poly-core, and how different threads react to modern laser fading.
+- **[CoatsCast Series: Blue Jeans Go Green](https://www.youtube.com/watch?v=86lLl7y-nrQ):** A detailed discussion on sustainability challenges in denim production, covering water consumption, chemical dyeing, and the difficulties of recycling modern elastane-blended jeans.
+- **[CoatsCast Series: Denim Evolution](https://www.youtube.com/watch?v=jKja7H0KkO4):** Exploring the future of circular denim design and eco-friendly material alternatives.
