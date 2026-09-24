@@ -1,6 +1,9 @@
 # Denim Handbook 🧵
 
-A community-driven, open-source knowledge base for fashion students, makers, and denim lovers.
+A community-driven, open-source knowledge base for fashion students, makers, and denim lovers. 
+
+**Repository:** [github.com/haligultekin/denim-handbook](https://github.com/haligultekin/denim-handbook)  
+**Maintainer:** [@haligultekin](https://github.com/haligultekin)
 
 This repository is dedicated to sharing knowledge about constructing, understanding, and making denim garments. **No brand promotions**—just pure resource sharing, techniques, education, and tools of the trade.
 
