@@ -20,6 +20,20 @@ To construct denim in a bespoke workshop (similar to makers like Ben Viapiana), 
 7. **Chainstitch Embroidery:** An antique machine steered with a hand crank to do freehand embroidery on jackets and pockets.
    - *Example:* **Singer 114w103**.
 
+## 💡 Accessible & Budget-Friendly Alternatives
+For students, independent makers, or those on a budget, you do not need $10,000 worth of vintage machinery to make incredible jeans. Here are the accessible alternatives that get the job done:
+
+1. **The Straight Stitch Workhorse:** 
+   - *Vintage Domestic:* An all-metal vintage machine like the **Singer 15-91** or **Singer 201** can be found on eBay for under $150 and will punch through thick denim effortlessly.
+   - *Modern Domestic:* The **Singer Heavy Duty (4423 / 4452)** is an affordable entry point designed for heavier fabrics.
+   - *Entry Industrial:* A standard **Juki DDL-8700** (around $800 new) is a phenomenal lifelong investment.
+2. **The Serger (Overlock):**
+   - Instead of a heavy industrial Union Special, the entry-level **Brother 1034D** (around $200) is widely loved by home sewists and can handle finishing the raw edges of mid-weight denim perfectly.
+3. **Bartacks & Buttonholes:**
+   - You do not need a Reece 101 or a dedicated bartacker. Any sturdy domestic machine with a **zig-zag stitch** (like the Singer Heavy Duty or a vintage Pfaff 130) can sew a very tight zig-zag to create bartacks and manual buttonholes.
+4. **The Hem:**
+   - While you won't get the "roping" effect without a chainstitcher, a standard **lockstitch hem** is historically accurate to many early workwear garments and requires zero extra machinery.
+
 ## 🏠 Tips for Domestic Machines
 - Always use a heavy-duty "Jeans" or "Denim" needle (Size 90/14 to 110/18).
 - Use a "Jean-a-ma-jig" or bulky seam jumper to keep the presser foot level when crossing thick flat-felled seams.
