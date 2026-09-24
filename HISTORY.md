@@ -14,7 +14,14 @@ The modern blue jean was born when a tailor named **Jacob Davis** was asked to m
 
 On **May 20, 1873**, they were granted U.S. Patent No. 139,121 for "Improvement in Fastening Pocket-Openings." This date is celebrated as the official birthday of the blue jean. Interestingly, the very first riveted garment produced under this patent was actually made of brown **duck canvas**, with indigo denim taking over shortly after!
 
-**The Patent Boom:** Because Levi's held the exclusive patent on rivets from 1873 until 1890, competitor brands were forced to innovate heavily to make their jeans durable without violating the patent. This era sparked incredible construction innovations, such as securing pockets deep inside the waistband or inventing the "One-Piece Fly" (patented by Boss of the Road in 1877).
+**The 1906 Archive Loss:** A major hurdle in denim history is that Levi Strauss & Co. lost their entire company archive in the **1906 San Francisco earthquake and fire**. Because of this, many early details—such as the true origin of the famous "arcuate" back pocket stitching—remain a mystery. Modern historians rely entirely on finding intact garments in abandoned mines to piece together the history.
+
+**The Evolution of the Fit:** The modern 5-pocket jean essentially finalized its "carbon footprint" in the **1920s**. Before this, jeans had one back pocket, curved waistbands, cinch backs, and no belt loops. By the **1920s**, belt loops were added, the cinch was phased out, and the shape we recognize today was born.
+
+**Cultural Adoption:**
+- **1870s-1910s:** Strictly worn as utility garments by miners and laborers.
+- **1920s-1930s:** Adopted by cowboys and rodeo stars, cementing denim in American Western mythology.
+- **1950s:** Propelled into fashion by Hollywood icons like James Dean and Marilyn Monroe, making denim the uniform of rebellious youth.
 
 ## 🧵 The Looms: Shuttle vs. Projectile
 - **The Shuttle Loom Era:** Up until the mid-20th century, denim was woven on narrow shuttle looms. These slower machines operated with lower tension, creating a narrow fabric (around 30" wide) with a tightly self-finished edge that won't fray—the **selvedge**. 
