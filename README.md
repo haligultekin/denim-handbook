@@ -1,44 +1,37 @@
-# Denim Handbook 
-
-A community-driven, open-source knowledge base for fashion students, makers, and denim lovers. 
+# Denim Handbook: A Technical and Historical Analysis
 
 **Repository:** [github.com/haligultekin/denim-handbook](https://github.com/haligultekin/denim-handbook)  
-**Maintainer:** [@haligultekin](https://github.com/haligultekin)
+**Principal Investigator / Maintainer:** [@haligultekin](https://github.com/haligultekin)
 
-This repository is dedicated to sharing knowledge about constructing, understanding, and making denim garments. **No brand promotions**—just pure resource sharing, techniques, education, and tools of the trade.
+This repository serves as a comprehensive, open-source academic resource dedicated to the historical analysis, textile engineering, and structural construction of denim garments. It is intended for fashion students, textile researchers, and technical garment makers. The material contained herein strictly adheres to objective historical documentation and technical instruction, omitting commercial brand promotion.
 
-## Table of Contents
+## Index of Research and Technical Documentation
 
-This repository is designed to be read sequentially as a complete guide, or used as a reference manual for specific techniques.
+This repository is structured to facilitate sequential study or targeted reference regarding specific manufacturing methodologies.
 
-### [History: Origins & Evolution](HISTORY.md)
-Discover the true timeline of denim. From its roots in Nîmes and Genoa, to the 1873 Jacob Davis copper rivet patent on duck canvas overalls. Explores the 1906 archive loss, the great patent boom, the rise of the Japanese "Osaka 5" (1979-1995), and the future of zero-waste open-source design.
+### 1. [Historical Analysis: Origins & Evolution](HISTORY.md)
+A chronological examination of the development of denim. This section traces the etymological and material roots from Nîmes and Genoa to the 1873 Jacob Davis copper rivet patent. It further analyzes the impact of the 1906 Levi Strauss archive loss, the proliferation of utility patents, the Japanese textile renaissance (1979-1995), and the trajectory toward zero-waste, open-source garment design.
 
-### [Fabric: Weight, Weave, and Sourcing](FABRIC.md)
-Understand your canvas. Breaks down fabric weights, weave types (RHT, LHT, Broken), and the crucial difference between vintage Ring-Spun and modern Open-End cotton spinning. Also covers Shuttle vs. Projectile looms and how to spot "fake" selvedge.
+### 2. [Textile Engineering: Weight, Weave, and Sourcing](FABRIC.md)
+A technical breakdown of denim as a substrate. This section defines fabric weights, weave structures (Right Hand Twill, Left Hand Twill, Broken Twill), and the mechanical disparities between vintage Ring-Spun and modern Open-End cotton spinning. It incorporates an analysis of Shuttle versus Projectile loom mechanics and methodologies for identifying inauthentic selvedge finishing.
 
-### [Thread: Types, Weights, and Colors](THREAD.md)
-Denim construction requires immense strength. Explores the history of thread (from linen to polyester to poly-core), sustainable Lyocell alternatives, and the standard Tex sizing used for heavy denim seams.
+### 3. [Structural Materials: Thread Typologies](THREAD.md)
+An examination of industrial sewing threads utilized in denim construction. It contrasts the structural integrity and aesthetic fading properties of polyester-core thread versus 100% cotton thread. It also establishes technical guidelines for tex sizing, color-matching with hardware, and chemical resilience (bleach-fastness).
 
-### 4. ⚙ [Machines: The Tools of the Trade](MACHINES.md)
-A comprehensive guide to the specialized industrial sewing machines required for bespoke denim. Features the "holy grail" machines favored by masters like Ben Viapiana, including the Union Special 43200G (hemming), Juki LK-1854 (bartacking), and Reece 101 (buttonholes).
+### 4. [Industrial Machinery and Equipment](MACHINES.md)
+A technical overview of the specialized industrial sewing machinery required for authentic denim construction. It details seminal industrial models (e.g., Union Special 43200G, Juki LK-1854, Reece 101) alongside viable domestic alternatives.
 
-### [Pattern & Construction: The 5-Pocket Jean](PATTERN.md)
-The core open-source pattern of this handbook. Outlines fabric requirements, zero-waste cutting philosophies, and the step-by-step order of operations. *(See the [Patterns Folder](patterns/INDEX.md) for actual digital files).*
+### 5. [Pattern Drafting and Construction Methodology](PATTERN.md)
+The core open-source technical pattern. This document outlines material requirements, zero-waste cutting philosophies, and the sequential order of operations required to construct a standard 5-pocket jean. *(Reference the [Patterns Archive](patterns/INDEX.md) for digital vector files).*
 
-### [Hardware: Buttons, Rivets & Zippers](HARDWARE.md)
-A breakdown of the structural hardware that makes denim unbreakable, from hidden rivets and washer burrs to the WWII laurel wreath buttons and the Button vs. Zip fly debate.
+### 6. [Structural Hardware: Rivets and Fasteners](HARDWARE.md)
+An analysis of the structural hardware that ensures the mechanical durability of denim garments. This covers the engineering evolution from hidden rivets and washer burrs to wartime material conservation (e.g., Laurel Wreath buttons) and the structural rationale in the Button Fly versus Zip Fly debate.
 
-### [Care: Washing & Maintenance](CARE.md)
-The definitive guide to caring for raw denim. Explains the crucial initial soak for unsanforized fabrics, how to properly wash jeans to maximize lifespan, and debunks common myths (like the freezer trick).
+### 7. [Garment Maintenance and Degradation Analysis](CARE.md)
+An empirical guide to the maintenance of raw denim. It details the requisite initial saturation process for unsanforized fabrics, protocols for routine washing to maximize textile longevity, and an objective analysis of common maintenance misinformation (e.g., the efficacy of freezing garments).
 
-### [Glossary: Denim Terminology](GLOSSARY.md)
-A dictionary of the highly specific denim vocabulary, including fabric terms (Warp, Weft, Slub, Nep) and fade types (Honeycombs, Whiskers, Roping, Stacks).
+### 8. [Lexicon of Denim Terminology](GLOSSARY.md)
+A specialized dictionary defining the technical vocabulary of denim production, encompassing textile terms (Warp, Weft, Slub, Nep) and degradation patterns (Honeycombs, Whiskers, Roping, Stacks).
 
-### [Community & Recommended Viewing](COMMUNITY.md)
-A curated index of the best open-source knowledge on the web. Includes links to deep-dive lectures by denim historians, sustainable textile documentaries, and bespoke makers who share their craft freely.
-
----
-
-## License
-All educational content and patterns in this repository are released under a Creative Commons (CC BY-SA 4.0) license to encourage sharing, modification, and open learning.
+### 9. [Academic and Community Resources](COMMUNITY.md)
+A curated index of supplementary educational materials. It provides references to lectures by textile historians, documentaries regarding sustainable manufacturing, and independent technical resources.
