@@ -17,6 +17,20 @@ Denim construction requires exceptionally strong thread, especially for stress p
 - **Tex 60 - Tex 80:** General topstitching, hemming, and flat-felled seams.
 - **Tex 105+:** Heavy decorative topstitching and keyhole buttonholes.
 
-## 🎨 Classic Colors
-- **Tobacco / Gold:** The classic orange and yellow hues used for traditional topstitching.
-- **Indigo:** Used for "stealth" stitching or interior construction seams you want to blend in.
+## 🎨 Color & Hardware Matching
+While classic "tobacco" or "gold" thread is iconic, professional denim design requires matching the thread to both the wash and the hardware.
+
+### The Core Color Pairings
+- **Copper Hardware (Vintage rivets/tack buttons):** Copper reads warm and orange. Match the thread tone to the hardware, not the fabric. Use a warm, copper-orange thread (like *Jupiter Rust* or *Cayenne*) to tie the garment together. 
+- **Brass / Antique Gold:** Brass is more yellow-gold. Lean into warm amber, honey, or muted gold-tan threads (like *Texas Crust*).
+- **Silver / Nickel:** Cool-toned hardware pairs best with cool threads—navy, grey, or clean white. A classic heritage look on a light wash is silver hardware with clean white thread.
+- **Black / Gunmetal:** Match with a true black thread for a unified, minimal look. High-contrast white should only be used for intentional graphic effects.
+
+### Wash-Fastness & Bleach Rules
+When designing jeans that will undergo heavy stone-washing or bleaching, your thread choice is critical:
+- **Never use standard reactive-dyed threads for bleach washes.** The colors will shift unpredictably or strip entirely. Always specify a rugged, bleach-fast poly-core thread for heavy washes.
+- **Light/Medium Bleach:** Choose thread colors that naturally mimic the fade of the fabric (pale blues or muted whites).
+- **Heavy Acid/Bleach Wash:** The thread should always remain lighter than the base fabric (near-white or true white).
+
+---
+*Pro-Tip: Historical 1870s and 1880s waist overalls didn't exclusively use copper thread. Many early garments were sewn with ecru (unbleached white) thread!*
