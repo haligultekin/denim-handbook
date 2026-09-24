@@ -10,7 +10,7 @@ A curated list of communities, forums, educators, and makers sharing open knowle
 ## 🎓 Open Knowledge Advocates & Educators
 *(This section is for highlighting fashion students, independent makers, and educators who share techniques, patterns, and guides for free or maintain a community-first approach.)*
 
-- *(Add links to useful YouTube channels, open-source fashion blogs, and Instagram accounts focused on technique rather than sales).*
+- **[Viapiana Custom Denim (@bviapiana)](https://www.youtube.com/@bviapiana):** Brian Viapiana is a bespoke denim maker who documents his entire jean-making process on YouTube. His channel is an absolute goldmine for observing actual construction techniques, order of operations, and the use of specialized vintage sewing machines (like double-needle chainstitchers and heavy bartackers) in a real workshop environment.
 
 ## 📺 Recommended Viewing
 - **[FASHION REVOLUTION | FASHION OPEN STUDIO X ISKO - A BRIEF HISTORY OF DENIM WITH MOHSIN SAJID](https://www.youtube.com/watch?v=m8WV2BX36RY):** Another great historical masterclass by Mohsin Sajid covering the timeline and evolution of denim.
