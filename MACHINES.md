@@ -14,7 +14,7 @@ To construct denim in a bespoke workshop (similar to makers like Ben Viapiana), 
 4. **Hemming Chainstitcher:** Uses a looper instead of a bobbin. Famously used for creating the classic diagonal "roping" effect on the hem as it fades.
    - *Example:* **Union Special 43200G** (The holy grail of denim hemming, out of production since 1987).
 5. **Bartack:** A dedicated machine to sew dense zig-zag stitches at high-stress points like belt loops, crotch seams, and pocket corners. 
-   - *Example:* **Singer 69** or modern Juki bartackers.
+   - *Example:* **Juki LK-1854** (The industry standard high-speed bartacker) or the vintage **Singer 69**.
 6. **Buttonhole Machine:** A specialized machine that automatically cuts and sews traditional "keyhole" buttonholes on heavy waistbands.
    - *Example:* **Reece 101**.
 7. **Chainstitch Embroidery:** An antique machine steered with a hand crank to do freehand embroidery on jackets and pockets.
