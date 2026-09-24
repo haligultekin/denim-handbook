@@ -21,3 +21,35 @@ How the cotton yarn is spun drastically changes the durability and fading charac
 - **Selvedge:** Woven on a vintage shuttle loom. The edges are finished ("self-edge") and do not fray. Typically woven in ~30" widths.
   - *Beware of Fake Selvedge:* Many modern fast-fashion brands use a technique called "tucking selvedge" on modern wide looms to fake the look of a vintage shuttle loom.
 - **Wide Loom (Projectile):** Woven on modern machines. The edges must be finished with an overlock (serge) stitch to prevent fraying. Woven in ~60" widths.
+
+## 🏭 Notable Global Denim Mills
+Understanding where your fabric comes from is essential. Here is a breakdown of some of the most important and historically significant denim mills across the globe:
+
+### 🇯🇵 Japan (The Heritage Masters)
+Famous for preserving vintage shuttle looms and creating highly textured, slubby, and artisanal selvedge denim.
+- **Kaihara Denim:** One of the largest and most famous Japanese mills; known for pioneering rope-dyeing techniques in Japan.
+- **Kuroki Mill:** Renowned for exceptionally high-quality selvedge and rich natural indigo dyes.
+- **Nihon Menpu:** A beloved artisanal mill known for incredible textures and experimental weaves.
+- **Collect Mill:** The fabric manufacturing arm behind the legendary brand Momotaro.
+
+### 🇹🇷 Turkey (The Innovators)
+Turkey is a massive powerhouse in the denim world, leading the charge in sustainable technologies, stretch denim, and eco-friendly dyeing.
+- **ISKO:** The world's largest producer of denim. They are at the absolute forefront of sustainable technology (like their eco-friendly washes and recycled concepts).
+- **Calik Denim:** A major premium mill known for high-stretch fabrics and sustainable production.
+- **Orta Anadolu:** Founded in 1953, they are a staple in premium global denim supply with a heavy focus on zero-waste initiatives.
+
+### 🇮🇹 Italy (The Luxury Pioneers)
+Italian mills are famous for incredibly soft, luxurious denim and pristine tailoring qualities.
+- **Candiani Denim:** Often called "the greenest mill in the blue world," located near Milan. Famous for premium luxury denim and intense sustainability efforts.
+- **Berto Industria Tessile:** A historic mill producing premium fabrics since 1887.
+
+### 🇮🇳 India & 🇵🇰 Pakistan (The Global Giants)
+These countries are the backbone of global denim production, producing massive volumes while increasingly adopting cutting-edge sustainable practices.
+- **Arvind Mills (India):** One of the largest manufacturers of denim in the world, heavily supplying the global market.
+- **Artistic Milliners (Pakistan):** A massive vertically integrated mill and a global leader in sustainable, LEED-certified denim production.
+
+### 🇺🇸 USA (The Historical Foundation)
+- **Cone Denim (White Oak):** Historically the most important mill in American denim (the exclusive supplier for Levi's 501s for decades). Though their historic White Oak plant in North Carolina closed in 2017, Cone Denim still operates globally in Mexico and China.
+
+### 🇧🇩 Bangladesh
+While primarily known as the world's leading hub for denim *garment manufacturing* (cut, sew, and wash facilities for major brands), Bangladesh is also rapidly growing its own internal textile milling capabilities (like **Beximco** and **Mahmud Jeans**) to create fully vertical supply chains.
