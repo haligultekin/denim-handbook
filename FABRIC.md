@@ -48,3 +48,14 @@ Knowing where your denim was woven tells you a lot about its history and charact
 
 ### United States (The Historic Roots)
 - **Cone Denim (White Oak):** The stuff of legends. They were famous for running the historic **Draper X3** shuttle looms, which were the exclusive source of Levi's selvedge denim until the plant sadly closed its doors in 2017.
+
+## Denim Recycling Challenges
+We all love the idea of turning old jeans into new jeans, but recycling denim isn't as simple as tossing it in a shredder. When you break down old denim, the fibers take a serious beating! 
+- **The Short Fiber Problem:** The mechanical shredding process chops the cotton fibers down to a fraction of their original length (often under 0.5 inches). These short fibers become almost impossible to spin into strong new yarn for jeans, usually ending up relegated to insulation stuffing or nonwoven materials.
+- **Prestress History:** The surviving fibers aren't just short; they're exhausted. They carry a "prestress history" from years of wear, washing, and fading, making them super fragile. 
+- **The Color Conundrum:** Denim is famously woven with indigo warp threads and white weft threads. Once you shred a pair of jeans, separating those blue and white fibers is impossible, and bleaching them back to pure white just destroys them further. The result? Recyclers just have to accept whatever murky blue-grey color they end up with and blend it with strong virgin cotton to make anything usable.
+
+## Modern Dyeing Innovations
+The denim industry is notorious for its heavy water and chemical use, but some truly brilliant innovations are changing the game to make our favorite blue fabrics far greener.
+- **Nitrogen Dyeing (N-Denim):** Developed by the eco-conscious wizards at Candiani, this process uses nitrogen gas to help the indigo dye penetrate the cotton yarn deeper and faster. It massively cuts down the number of dye baths required, saving a ton of water and chemicals while resulting in incredibly rich colors.
+- **Crystal Clear Dyeing:** Another massive leap forward, this technique is a waterless and saltless dyeing method. By rethinking the chemistry of how indigo binds to cotton, mills can now achieve those deep, beautiful blues without dumping vast amounts of salty, polluted wastewater into the environment.

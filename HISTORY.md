@@ -6,6 +6,7 @@ Understanding the origins of denim gives us a deep appreciation for how our favo
 Even though we use "denim" and "jeans" to mean the same thing today, the words actually come from two different European weaving hubs back in the 16th and 17th centuries:
 - **Jeans (Genoa, Italy):** Back in the 1500s, sailors in the port of Genoa wore a tough workwear fabric made from a cotton and linen blend. The French name for Genoa is *Gênes*, and American merchants eventually anglicized this to the word **"Jeans"**.
 - **Denim (Nîmes, France):** In the 1600s, weavers in Nîmes, France, tried to copy that tough Genoese fabric, but they used a blend of wool and silk instead. What they created was a unique twill-weave using a blue warp thread and a natural weft thread. They called it *serge de Nîmes* (serge from Nîmes), which was quickly shortened to **"Denim"**.
+- **Dungarees (India):** While Europe was busy with jeans and denim, a strong, coarse cotton cloth called *dungrı́* was being exported from India. Sailors would use this tough fabric for their work clothes, which eventually gave us the word **"Dungarees"**.
 
 ## The Industrial Workwear Era and the Copper Rivet
 Fast forward to the late 19th century in America. Denim became the go-to fabric for industrial workers, miners, and farmers because it was incredibly tough and could take a real beating.
@@ -25,9 +26,11 @@ On **May 20, 1873**, the U.S. Patent Office granted Patent No. 139,121 for an "I
 - **1920s-1930s (Wild West Magic):** Rodeo riders started wearing denim, weaving the fabric into the legend of the American West.
 - **1940s (Wartime Rations):** During WWII, the U.S. Government rationed materials. Levi's responded with the **S501** (Simplified 501), dropping the cinch-back and watch pocket rivets, and using generic "Laurel Wreath" buttons. To save thread, they even painted the arcuate stitches onto the back pockets! Despite the myths, records show American troops didn't actually wear 501s in active combat.
 - **1947 (The Golden Standard):** After the war, the 1947 501 hit the scene, bringing back the structural rivets and stitched back pockets. Denim experts consider the '47 fit to be the ultimate blueprint for the classic five-pocket jean.
-- **1951 (The Canadian Tuxedo):** When the famous singer Bing Crosby was turned away from a fancy Canadian hotel for wearing denim, a custom denim tuxedo was made just for him. This legendary moment cemented the idea of the "Canadian Tuxedo."
+- **1951 (The Canadian Tuxedo & Blue Serge Day):** When the famous singer Bing Crosby was turned away from a fancy Canadian hotel for wearing his favorite jeans, it sparked outrage. In response, Levi's crafted a custom denim tuxedo just for him and declared a "Blue Serge Day" in his honor! This legendary moment cemented the idea of the "Canadian Tuxedo."
 - **1950s (Rebel Without a Cause):** Denim hit the mainstream fashion scene thanks to movie stars like James Dean and Marlon Brando, making jeans the ultimate symbol of cool youth rebellion.
+- **1970s (Denim on Wheels):** People were so obsessed with denim that car makers got in on the action! You could actually buy an AMC Gremlin with spun-nylon denim upholstery or a VW "Jeans Beetle" sporting a fully denim interior.
 - **1970s-1980s (Designer Era):** Denim transitioned from tough workwear to luxury fashion. Designers started focusing on tight fits, adding stretch (elastane), and splashing logos everywhere, sometimes caring more about looks than durability.
+- **1990s (The Origin of Denim Day):** In a shocking 1998 Italian Supreme Court decision, a rape conviction was overturned because the victim wore tight jeans, which the judge argued required her cooperation to remove—implying consent. Outraged by this victim-blaming, people across the globe wore denim to work, giving birth to the international "Denim Day" protest.
 - **2000s (The Raw Denim Revival):** Pushing back against pre-faded, mass-produced jeans, online communities kicked off a massive global comeback for crisp, unwashed ("raw") selvedge denim.
 
 ## The Big Three of American Workwear
