@@ -22,3 +22,4 @@ Welcome to the ultimate denimhead's resource list! Here you'll find a hand-picke
 ## Digital Encyclopedias and Forums
 - **Heddels (formerly RawrDenim):** The go-to digital encyclopedia for modern raw denim culture, packed with helpful technical glossaries and brand guides.
 - **Superfuture (SuFu):** A legendary forum and digital archive holding decades of real-world fade data (atari), repair tips, and stories from independent makers.
+- **r/rawdenim:** The largest active community of denim enthusiasts on Reddit, featuring daily fit checks, fade galleries, wash experiments, and highly specific sizing advice for niche Japanese brands.
