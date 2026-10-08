@@ -6,6 +6,9 @@
 
 This repository is a comprehensive, open-source guide to the history, textile engineering, and construction of denim garments. It is built for fashion students, researchers, technical garment makers, and dedicated denim enthusiasts ("denimheads"). The material here focuses on objective history and technical instruction, completely free of commercial brand promotion.
 
+> [!NOTE]
+> **Project Status:** This handbook is still in its early beginning stages. The documentation is actively being drafted, expanded, and refined.
+
 ## Index of Research and Technical Documentation
 
 This repository is structured to facilitate sequential study or targeted reference regarding specific manufacturing methodologies.
