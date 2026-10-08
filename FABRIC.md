@@ -36,6 +36,7 @@ Knowing where your denim was woven tells you a lot about its history and charact
 ### Turkey (The Eco-Innovators)
 - **ISKO:** The biggest denim producer in the world! They lead the charge in making denim greener with recycled fabrics and eco-friendly processing.
 - **Calik Denim:** A premium mill that makes killer stretch denim and focuses heavily on sustainable practices.
+- **Bossa Denim:** Founded in 1951 in Adana, this historic Turkish powerhouse is a pioneer in sustainable innovation, famed for its "Re-Set" collection which heavily features recycled yarns, organic cotton, and eco-conscious dyeing.
 
 ### Italy (Luxury Craftsmanship)
 - **Candiani Denim:** Located near Milan, they're famous for being one of the greenest, most sustainable denim mills on the planet, spinning some seriously luxurious fabrics.
