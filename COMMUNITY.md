@@ -1,18 +1,18 @@
-# Supplementary Academic and Archival Resources
+# Supplementary Resources & Archives
 
-The following index provides a curated taxonomy of external open-source materials, archival databases, and technical lectures critical for advanced research in denim history and structural manufacturing.
+Welcome to the ultimate denimhead's resource list! Here you'll find a hand-picked collection of open-source materials, archives, and expert deep-dives into the history and making of our favorite fabric.
 
-## Video Archives and Academic Lectures
-- **Mohsin Sajid (Endrime) Masterclasses:** A premier resource for zero-waste spatial planning, technical pattern drafting, and in-depth analyses of industrial machinery.
-- **CoatsCast:** Comprehensive industrial symposiums focusing on thread metallurgy, tensile strength analysis, and historical industrial sewing techniques.
-- **Ben Viapiana (Viapiana Custom Denim):** Extensive process documentation from a bespoke manufacturer, detailing the operational mechanics of the Union Special 43200G and the Reece 101.
-- **ISKO Denim Seminars:** Corporate-level technical panels focusing on contemporary innovations in sustainable textile engineering, recycled fibers, and eco-conscious dyeing methodologies.
-- **Den In Denim:** Highly researched historical analyses of specific vintage eras, including empirical reviews of the 1917 Homer Campbell artifacts and the 1944 S501.
+## Video Archives and Masterclasses
+- **Mohsin Sajid (Endrime) Masterclasses:** An incredible resource for learning about zero-waste cutting, technical pattern drafting, and getting a close look at the mechanics of industrial sewing machinery.
+- **CoatsCast:** Fascinating industry talks diving into thread types, tensile strength, and historical sewing techniques.
+- **Ben Viapiana (Viapiana Custom Denim):** A fantastic behind-the-scenes look from a custom maker, detailing exactly how legendary machines like the Union Special 43200G and the Reece 101 operate in practice.
+- **ISKO Denim Seminars:** Forward-looking industry panels focused on the future of denim, including sustainable textiles, recycled fibers, and eco-friendly dyeing methods.
+- **Den In Denim:** Awesome historical deep-dives into specific vintage eras, featuring close looks at legendary pieces like the 1917 Homer Campbell jeans and the WWII-era S501.
 
 ## Documentary Films
-- **Blue Alchemy: Stories of Indigo (2011):** An independent documentary providing a global anthropological analysis of the history, chemistry, and cultural significance of the indigo plant and its dyeing processes.
-- **RiverBlue (2017):** A critical investigative documentary examining the severe ecological impact of mass-market denim manufacturing on global hydrological systems, advocating for systemic industrial reform.
+- **Blue Alchemy: Stories of Indigo (2011):** A great independent documentary that explores the history, chemistry, and worldwide cultural significance of the indigo plant and its dyeing processes.
+- **RiverBlue (2017):** An eye-opening investigative look at the environmental impact of mass-market denim production on global rivers, advocating for a more sustainable way to make jeans.
 
-## Digital Encyclopedias and Archival Forums
-- **Heddels (formerly RawrDenim):** The preeminent digital encyclopedia for contemporary raw denim culture, providing extensive technical glossaries and brand taxonomies.
-- **Superfuture (SuFu):** A foundational digital archive and forum containing decades of empirical data regarding localized fading patterns (Atari), structural repair methodologies, and independent manufacturer histories.
+## Digital Encyclopedias and Forums
+- **Heddels (formerly RawrDenim):** The go-to digital encyclopedia for modern raw denim culture, packed with helpful technical glossaries and brand guides.
+- **Superfuture (SuFu):** A legendary forum and digital archive holding decades of real-world fade data (atari), repair tips, and stories from independent makers.
