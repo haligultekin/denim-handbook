@@ -1,8 +1,6 @@
 # Denim Handbook: A Technical and Historical Guide
 
-<p align="center">
-  <img src="assets/logo.jpg" alt="Denim Handbook Logo" width="250"/>
-</p>
+![Denim Handbook Logo](assets/logo.jpg)
 
 This repository is a comprehensive, open-source guide to the history, textile engineering, and construction of denim garments. It is built for fashion students, researchers, technical garment makers, and dedicated denim enthusiasts ("denimheads"). The material here focuses on objective history and technical instruction, completely free of commercial brand promotion.
 
