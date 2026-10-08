@@ -1,8 +1,5 @@
 # Denim Handbook: A Technical and Historical Analysis
 
-**Repository:** [github.com/haligultekin/denim-handbook](https://github.com/haligultekin/denim-handbook)  
-**Principal Investigator / Maintainer:** [@haligultekin](https://github.com/haligultekin)
-
 This repository serves as a comprehensive, open-source academic resource dedicated to the historical analysis, textile engineering, and structural construction of denim garments. It is intended for fashion students, textile researchers, and technical garment makers. The material contained herein strictly adheres to objective historical documentation and technical instruction, omitting commercial brand promotion.
 
 ## Index of Research and Technical Documentation
