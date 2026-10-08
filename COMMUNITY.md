@@ -25,138 +25,26 @@ Welcome to the ultimate denimhead's resource list! Here you'll find a hand-picke
 - **[r/rawdenim](https://www.reddit.com/r/rawdenim/):** The largest active community of denim enthusiasts on Reddit, featuring daily fit checks, fade galleries, wash experiments, and highly specific sizing advice for niche Japanese brands.
 
 ## External Research & Archive Links
-- **[A Short History of Denim](https://www.levistrauss.com/levis-history/)** - History of denim and Levi Strauss & Co.
-- **[27 Revolutionary Denim Innovations You Need to Know](https://www.denimhunters.com/27-denim-innovations/)** - Revolutionary denim innovations and developments
-- **[Story of Denim Blue Jeans across the Eras](https://cmes.uchicago.edu/sites/cmes.uchicago.edu/files/uploads/Global/New%20Story%20of%20Jeans.pdf)** - History of denim and blue jeans
-- **[Levi Strauss - The History of Blue Jeans](https://archive.today/20130101191510/http://inventors.about.com/od/sstartinventors/a/Levi_Strauss.htm)** - History of Levi Strauss and blue jeans
-- **[How jeans conquered the world](https://www.bbc.com/news/magazine-17101768)** - The worldwide popularity and development of jeans
-- **[American Flava: the Levi's Gremlin press release](https://www.hemmings.com/blog/2007/06/30/american-flava-the-levis-gremlin-press-release/)** - The use of denim-themed interior upholstery in cars in the 1970s
-- **[Top 10 Obscure Special Editions and Forgotten Limited-Run Models: AMC Edition](http://www.curbsideclassic.com/automotive-histories/top-10-obscure-special-editions-and-forgotten-limited-run-models-amc-edition/)** - Denim-themed special packages in AMC vehicles
-- **[A Pantload Of Jeans-Themed Cars On The Anniversary Of Levi's Patent](https://jalopnik.com/a-pantload-of-jeans-themed-cars-on-the-anniversary-of-l-508937868)** - Jeans-themed cars (Jeans Beetle etc.)
-- **[Jeansbeetles.com Chronology and Descriptions](https://jalopnik.com/a-pantload-of-jeans-themed-cars-on-the-anniversary-of-l-508937868)** - Chronology and descriptions of Jeans Beetle models
-- **[How Denim Is Made: Indigo Dyeing](https://web.archive.web/20190903003208/https://www.denimhunters.com/how-denim-is-made-indigo-dyeing/)** - Denim production and indigo dyeing process
-- **[Rope Dyeing Vs Slasher (Sheet) Dyeing](https://web.archive.web/20161012171205/https://www.denimsandjeans.com/denim/manufacturing-process/rope-dyeing-vs-slasher-sheet-dyeing/3117)** - Comparison of denim yarn dyeing methods (Rope Dyeing and Slasher Dyeing)
-- **[The Denim Weight of Jeans](https://www.unsustainablemagazine.com/the-denim-weight-of-jeans-guide/#:~:text=While%20there%20are%20no%20official,type%20of%20clothing%20being%20made.)** - Denim fabric weights used in jeans
-- **[Denim Fabric / Denim Fabric Supplier](https://fabric-supplier.com/denim-fabric-supplier/)** - Denim Fabric Supply
-- **[Denim Knowledge Blog / Denim Fabric Knowledge Blog](https://fabric-supplier.com/denim-knowledge-blog/)** - Denim Fabric Knowledge Blog
-- **[what-is-denim-fabric](https://fabric-supplier.com/what-is-denim/)** - What is Denim Fabric?
-- **[denim-fabric-sourcing-guide](https://fabric-supplier.com/denim-fabric-sourcing-guide/)** - Denim Fabric Sourcing Guide and Cost Calculation
-- **[how-raw-denim-becomes-washed-denim-process](https://fabric-supplier.com/denim-washing-process/)** - The Process of Transforming Raw Denim into Washed Denim
-- **[Recent market reporting](https://www.reuters.com/business/levis-sell-300-jeans-more-stores-tap-growing-demand-premium-denim-2025-11-11/?utm_source=chatgpt.com)** - Levi's Premium Selvedge Denim Line and Market Demand
-- **[regional-denim-characteristics-comparison](https://fabric-supplier.com/denim-origin-guide/)** - Regional Denim Characteristics Comparison Guide
-- **[Denim Weight & Shrinkage Guide: How to Choose the Right Ounces for Every Garment？](https://fabric-supplier.com/denim-weight-guide/)** - Denim Weight and Shrinkage Guide
-- **[Denim Dress Specifications: Weight, Width, and Yarn Count](https://fabric-supplier.com/denim-dress-specifications/)** - Denim Dress Technical Specifications (Weight, Width, Yarn Count)
-- **[Denim Shirt Fabric Specifications: Weight, Wash & PO Template](https://fabric-supplier.com/denim-shirt-fabric-specifications/)** - Denim Shirt Fabric Technical Specifications and Purchase Template
-- **[Denim Jeans Fabric Specifications: Copy-Paste PO Checklist](https://fabric-supplier.com/2870-2denim-jeans-fabric-specifications/)** - Denim Pants Fabric Specifications and Purchasing Checklist
-- **[What type of denim fabric specifications should be used to make a denim jacket?](https://fabric-supplier.com/denim-jacket-fabric-specifications/)** - Denim Fabric Specifications for Making a Denim Jacket
-- **[Denim Fabric Classifications: The Ultimate Factory Guide](https://fabric-supplier.com/denim-fabric-classifications/)** - Denim Fabric Classifications and Types
-- **[Turkish](https://fabric-supplier.com/tr/selvedge-denim-nedir/)** - What is Selvedge Denim? (Turkish Page)
-- **[denim](https://www.nippon.com/en/articlelist.html?f=ncf-tag&s=denim)** - List of articles about denim
-- **[jeans](https://www.nippon.com/en/articlelist.html?f=ncf-tag&s=jeans)** - List of articles about jeans
-- **[Kojima](https://www.nippon.com/en/articlelist.html?f=ncf-tag&s=Kojima)** - List of articles about the Kojima region
-- **[Kojima, Okayama: Japan's Denim Capital Lifestyle Apr. 19, 2012](https://www.nippon.com/en/views/b00602/?cx_recs_click=true)** - Kojima, Okayama, Japan's denim capital
-- **[Thomas Stege Bojer](https://denimhunters.com/author/thomas/)** - Profile link of article author Thomas Stege Bojer
-- **[Bluezone](http://www.munichfabricstart.com/bluezone-en.html)** - Independent denim and sportswear trade show organized by Munich Fabric Start
-- **[Register for the show here!](http://www.munichfabricstart.com/visitor-ticket-en.html#_visitorticket=fieldset-first)** - Visitor ticket registration page for the Bluezone denim trade show
-- **[Softwear Automation](http://softwearautomation.com/)** - Automation company offering fully automated sewing lines
-- **[MYR](https://www.munichfabricstart.com/exhibitor/public/en/premium/profile/ex/myr-srl)** - Creative software digitizing the jeans design processes
-- **[Sandeep Agarwal](https://www.linkedin.com/in/sandeep376/)** - Profile of Denimandjeans.com expert Sandeep Agarwal
-- **[Lenzing / Artistic Milliners](https://www.munichfabricstart.com/exhibitor/public/en/premium/profile/ex/Lenzing)** - Profile of Lenzing, producer of Tencel, Micromodal and stretch fiber technologies, and Pakistani producer of Cordura performance denim
-- **[Tricia Carey](https://www.linkedin.com/in/tricia-carey-726b506/)** - Profile of Tricia Carey from Lenzing
-- **[Lycra](https://www.munichfabricstart.com/exhibitor/public/en/premium/profile/ex/INVISTA)** - Profile of Lycra / INVISTA featuring dualFX stretch technology
-- **[Klas Dalquist](https://www.linkedin.com/in/klas-dalquist-63503714/)** - Profile of designer Klas Dalquist
-- **[Stefano Aldighieri](https://www.linkedin.com/in/stefanoaldighieri/)** - Profile of designer Stefano Aldighieri
-- **[open-end spinning](https://denimhunters.com/how-denim-is-made-spinning/)** - Open-end spinning process in denim making
-- **[Indigo Textile](https://www.munichfabricstart.com/exhibitor/public/en/premium/profile/ex/indigo-textile-pvt-ltd)** - Indigo Textile company offering yarn spinning innovations
-- **[Martin Schaefer](https://www.linkedin.com/in/martin-schaefer-84222965/)** - Profile of Martin Schaefer from Indigo Textile
-- **[Maarten Wentholt](https://www.linkedin.com/in/maartenwentholt/)** - Profile of Denim City expert Maarten Wentholt
-- **[Artistic Milliners](https://www.munichfabricstart.com/exhibitor/public/en/premium/profile/ex/artisticmilliners)** - Profile of Artistic Milliners, developer of the Crystal Clear dyeing technique
-- **[Candiani](https://www.munichfabricstart.com/exhibitor/public/en/premium/profile/ex/candiani-spa-)** - Candiani, developer of N-Denim nitrogen dyeing and Re-Gen fabric technology
-- **[Simon Giuliani](https://www.linkedin.com/in/simongiuliani/)** - Profile of Candiani Marketing Manager Simon Giuliani
-- **[a recent blog post](https://denimhunters.com/munich-fabric-start-bluezone-man-machine/)** - Blog post about the impact of artificial intelligence on jeans design processes
-- **[Giovanni Petrin](https://www.linkedin.com/in/giovanni-petrin-89123a112/)** - Profile of Giovanni Petrin, former general manager of Martelli washing facilities
-- **[Michael Kampe](https://www.linkedin.com/in/michael-kampe-431b0838/)** - Profile of Hugo Boss Head of Design Michael Kampe
-- **[Christine Rucci](https://www.linkedin.com/in/christinerucci/)** - Profile of designer Christine Rucci working with 3D body scanning software
-- **[YouTube Video - Denim Innovations](https://youtu.be/zI7u9V5aYt4?t=8s)** - Video content about denim innovations and technologies
-- **[Ebru Ozaydin](https://www.linkedin.com/in/ebru-ozaydin-06027b69/)** - Profile of Ebru Özaydın expressing views on denim cut and sew automation
-- **[Alice Tonello](https://www.linkedin.com/in/tonelloalice/)** - Profile of ozone washing technology expert Alice Tonello
-- **[YouTube Video - Ozone Washing](https://youtu.be/UzFYGZu90ek?t=37s)** - Demonstration of ozone jeans washing and bleaching technology
-- **[Gonser Group](https://www.munichfabricstart.com/exhibitor/public/en/premium/profile/ex/gonser-group)** - Gonser Group preparing automated laser and robotic spray production line
-- **[Alvise Arcaro](https://www.linkedin.com/in/alvisearcaro/)** - Gonser Group Yaratıcı Danışmanı Alvise Arcaro'nun profili
-- **[Levi's 701 women's jeans](http://go.redirectingat.com/?id=56205X1329855&xs=1&url=http%3A%2F%2Fwww.levi.com%2FUS%2Fen_US%2Fwomens-jeans%2Fp%2F507010010&sref=1950sStylePants)** - Women's jeans based on 1950s style
-- **[Men's Vintage Denim Jeans History](https://vintagedancer.com/vintage/mens-vintage-denim-jeans-history/)** - History of men's vintage denim and jeans
-- **[Shop 1940s pants and jeans / 1940s Women's Jeans](https://vintagedancer.com/1940s/womens-1940s-style-pants/)** - Women's pants and jeans brands and models suited to 1940s style
-- **[1950s style pants women / 1950s Women's Jeans](https://vintagedancer.com/1950s/1950s-style-pants-women/)** - High-waisted slim fit jeans and brand models suited to 1950s style
-- **[1960s style women's pants / Shop 1960s/1970s Jeans / 1960s Women's Jeans](https://vintagedancer.com/1960s/1960s-style-womens-pants/)** - 1960s and 1970s style bell bottoms, vintage jeans and brand models
-- **[Women's 1940s pants styles / Denim dungarees](https://vintagedancer.com/1940s/womens-1940s-pants-styles/)** - 1940s style denim dungarees and overalls
-- **[Freddies of Pinewood](http://www.freddiesofpinewood.co.uk/categories/mens/)** - Men's and women's 1940s and 1950s style jeans and shirts
-- **[Lady K Loves](http://www.lady-k-loves.com/jeans-s/107.htm)** - Women's pants and jeans in 1950s style
-- **[Vintage Levi's](http://www.levi.com/US/en_US/category/men/clothing/collections/levi-collections-vintageclothing)** - Nostalgic Levi's jeans reproduced from 1900-1990s
-- **[Search EBSCOhost / Research Starters Home](https://login.ebsco.com/)** - Academic content search, EBSCOhost platform login and Research Starters guide
-- **[Go to EBSCOhost / Cotton / Levi Strauss / World War II / Counterculture of the 1960s / Hippies / Rebel Without a Cause (film) / Calvin Klein / Gloria Vanderbilt / Key Figures / Summary of Event / Significance / Bibliography / 20th century fashion / Jeans (Clothing) / Fashion / United States](https://openurl.ebsco.com/results?sid=ebsco%3Aebsco.com%3ARS&bquery=Denim%20Jeans%20Become%20Accepted%20as%20Fashion&link_origin=https%3A//www.ebsco.com)** - Access to content, search results and related topics regarding Denim Jeans Become Accepted as Fashion
-- **[cotton](https://www.ebsco.com/research-starters/science/cotton)** - Properties of cotton fiber, the main component of denim fabric
-- **[levi-strauss](https://www.ebsco.com/research-starters/history/levi-strauss)** - Life of blue jeans pioneer Levi Strauss and his contributions to the clothing industry
-- **[world-war-ii](https://www.ebsco.com/research-starters/military-history-and-science/world-war-ii)** - The use of denim in military and defense during World War II
-- **[counterculture-1960s](https://www.ebsco.com/research-starters/history/counterculture-1960s)** - Counterculture movements of the 1960s and clothing preferences
-- **[hippies](https://www.ebsco.com/research-starters/history/hippies)** - Hippies and denim fabric as a symbol of alternative clothing
-- **[rebel-without-cause-film](https://www.ebsco.com/research-starters/film/rebel-without-cause-film)** - The movie Rebel Without a Cause and James Dean popularizing jeans
-- **[calvin-klein](https://www.ebsco.com/research-starters/biography/calvin-klein)** - Life of fashion designer Calvin Klein and his role in the designer jeans market
-- **[gloria-vanderbilt](https://www.ebsco.com/research-starters/womens-studies-and-feminism/gloria-vanderbilt)** - Designer jeans manufacturer and fashion icon Gloria Vanderbilt
-- **[Levi's 501 jeans](https://www.levi.com/US/en_US/clothing/men/jeans/c/levi_clothing_men_jeans/facets/feature-fit_name/501%C2%AE)** - Levi's 501 jeans product category and models
-- **[Jeans: A Cultural History of an American Icon](https://www.amazon.com/Jeans-Cultural-History-American-Icon/dp/1592402895)** - James Sullivan's book covering the cultural history of jeans
-- **[After 150 Years, Levi's 501 Blue Jeans Are Still Kicking](https://www.smithsonianmag.com/smart-news/levis-jeans-150-years-180982241/?itm_source=related-content&itm_medium=parsely-api)** - The 150-year history and cultural impact of Levi's 501 jeans
-- **[The Origin of Blue Jeans](https://www.smithsonianmag.com/smithsonian-institution/the-origin-of-blue-jeans-89612175/?itm_source=related-content&itm_medium=parsely-api)** - The origin and historical development of blue jeans
-- **[Cache of 19th-Century Blue Jeans Discovered in Abandoned Arizona Mineshaft](https://www.smithsonianmag.com/history/cache-of-19th-century-blue-jeans-discovered-in-abandoned-arizona-mineshaft-180981014/?itm_source=related-content&itm_medium=parsely-api)** - 19th-century jeans discovered in an abandoned mine shaft in Arizona
-- **[When Were Blue Jeans Invented? These Paintings Suggest the Fashion Trend Dates Back to the 1600s](https://www.smithsonianmag.com/smart-news/when-were-blue-jeans-invented-these-paintings-suggest-fashion-trend-dates-back-1600s-180984315/?itm_source=related-content&itm_medium=parsely-api)** - The invention date of blue jeans and its traces in paintings dating back to the 1600s
-- **[Lady Levi's (Viola - Oldest Women's Levi's Jeans)](https://www.levistrauss.com/2017/08/29/meet-viola-oldest-pair-womens-levis-jeans/)** - The first Levi's denim jeans made exclusively for women in 1934
-- **[Denim Day brings big push for sexual assault awareness](http://www.insidebayarea.com/news/ci_12203751)** - Sexual assault awareness and Denim Day announcement
-- **[Denim Day Attempts Prevention and Awareness](https://archive.today/20110713191729/http://media.www.lavalleystar.com/media/storage/paper295/news/2009/04/29/News/Denim.Day.Attempts.Prevention.And.Awareness-3730047.shtml)** - Sexual assault prevention and awareness efforts
-- **[SAFE in Hunterdon's Denim Day](https://archive.today/20110718190049/http://njmonthly.com/events/3977.html)** - Denim Day events under SAFE in Hunterdon
-- **[The Herald (Glasgow)](https://archive.today/20130131194507/http://pqasb.pqarchiver.com/smgpubs/67341615.html?did=67341615&FMT=ABS&FMTS=FT&date=Jan+26,+2001&author=Jim+McLean&pub=The+Herald&desc=Italian+judges+draw+line+on+when+pat+on+bottom+is+not+sexual+harassment)** - News about Italian judges' decisions on sexual harassment
-- **[The Los Angeles Times](https://pqasb.pqarchiver.com/latimes/access/327878201.html?dids=327878201:327878201&FMT=ABS&FMTS=ABS:FT&type=current&date=Apr+24%2C+2003&author=Jessica+Garrison&pub=Los+Angeles+Times&edition=&startpage=B.4&desc=City+Council+Sends+a+Message+in+Denim)** - Message given by the Los Angeles City Council wearing jeans
-- **[Denim Day Celebrates 20 Years of Advocacy for Sexual Violence Survivors](https://spectrumnews1.com/ca/la-west/news/2019/04/24/denim-day-celebrates-20-years-of-advocacy-for-sexual-violence-survivors/)** - 20th anniversary of advocacy for sexual violence survivors and Denim Day
-- **[Denim Day's history of international solidary against sexual assault](https://www.army.mil/article/245281/denim_days_history_of_international_solidary_against_sexual_assault)** - History of international solidarity against sexual assault and Denim Day
-- **[Why Denim?](https://www.denimdayinfo.org/why-denim)** - Denim Day movement and the reason for choosing denim fabric/jeans
-- **[Italian court reverses 'tight jeans' rape ruling](https://www.independent.ie/world-news/europe/italian-court-reverses-tight-jeans-rape-ruling-26464014.html)** - Italian court reversing the tight jeans ruling
-- **[Ruling on Tight Jeans and Rape Sets Off Anger in Italy](https://www.nytimes.com/1999/02/16/world/ruling-on-tight-jeans-and-rape-sets-off-anger-in-italy.html)** - Reactions against the tight jeans and rape ruling in Italy
-- **[Denim Day 2020](https://careadvocate.ucsf.edu/events/denim-day-2020)** - Denim Day 2020 events and advocacy resources
-- **[Rape, Blue Jeans, and Judicial Developments in Italy (Columbia Journal of European Law)](https://web.archive.org/web/20110828180548/http://www.cjel.net/online/16_1-faedi/)** - Jeans case in Italy and judicial developments
-- **[Rape, Blue Jeans, and Judicial Developments in Italy (Digital Commons)](https://digitalcommons.law.ggu.edu/pubs/104)** - Analysis of the jeans ruling and sexual assault cases in Italy
-- **[Rape, Blue Jeans, and Judicial Developments in Italy (PDF)](https://web.archive.org/web/20160220215528/http://www.cjel.net/wp-content/uploads/2009/11/faedi.pdf)** - Sexual assault, jeans defense and legal processes
-- **[La 'sentenza dei jeans' tra maschilismo e garantismo](https://www.repubblica.it/online/fatti/jeans/tridico/tridico.html)** - Discussions about the jeans ruling
-- **[History of Denim Day](https://www.uwosh.edu/care/denim-day/history-of-denim-day)** - History and origin of Denim Day
-- **[Denim Day Observation for Promoting Awareness of Sexual Assault](https://www.america-times.com/denim-day-awareness-sexual-assault/)** - Denim Day observation to increase sexual assault awareness
-- **[Denim Day Official Site](http://denimdayinfo.org/)** - Denim Day official information, campaign and awareness platform
-- **[A Patent for a Pair of Pants Strengthened with Rivets](http://www.google.com/patents?id=XnZNAAAAEBAJ&printsec=abstract&zoom=4&source=gbs_overview_r&cad=0#v=onepage&q&f=false)** - Jacob Davis and Levi Strauss' patent for pants strengthened with rivets
-- **[Antique Duck Trousers](http://americanhistory.si.edu/collections/object.cfm?key=35&objkey=8959)** - Antique riveted canvas pants from 1873-1896 exhibited at the National Museum of American History
-- **[How Denim Became a Political Symbol of the 1960s](https://www.smithsonianmag.com/arts-culture/denim-political-symbol-1960s-180976241/?itm_source=related-content&itm_medium=parsely-api)** - Denim fabric becoming a political symbol in the 1960s
-- **[These Pants Were Pulled From an 1857 Shipwreck. Are They the World's Oldest Jeans?](https://www.smithsonianmag.com/smart-news/pants-recovered-from-1857-shipwreck-sell-for-114k-at-auction-180981283/?itm_source=related-content&itm_medium=parsely-api)** - Garment recovered from an 1857 shipwreck thought to be the world's oldest jeans
-- **[English](https://www.candianidenim.com/en/hub-activism/the-history-of-jeans-part-1-from-the-origin-of-denim-to-indigo/109)** - History of Jeans Part 1: From the Origin of Denim to Indigo
-- **[Italiano](https://www.candianidenim.com/it/hub-activism/il-jeans-e-la-sua-storia-parte-1-dallorigine-del-denim-allindaco/109)** - History of Jeans Part 1: From the Origin of Denim to Indigo
-- **[Indigo](https://www.candianidenim.com/en/indigo-rinse)** - Indigo Denim Wash Products
-- **[Black](https://www.candianidenim.com/en/black-rinse)** - Black Denim Wash Products
-- **[Ecru](https://www.candianidenim.com/en/ecru-rinse)** - Ecru Denim Wash Products
-- **[Raw Selvedge](https://www.candianidenim.com/en/raw-selvedge)** - Raw Selvedge Denim Products
-- **[Candiani Corner](https://www.candianidenim.com/en/candiani-corner)** - Candiani Denim Special Area
-- **[Candiani Custom](https://www.candianidenim.com/en/candiani-custom)** - Custom Made Candiani Denim
-- **[Fabrics](https://www.candianidenim.com/en/innovation/products)** - Denim Fabric Innovations and Fabric Types
-- **[Hub Activism](https://www.candianidenim.com/en/hub-activism)** - Denim Culture and Activism Articles
-- **[History](https://www.candianidenim.com/en/hub-activism?cat_id=11)** - Denim and Jeans History Category Page
-- **[COREVA™](https://www.candianidenim.com/en/coreva)** - Sustainable Denim Innovation COREVA™
-- **[Women's Denim - All jeans](https://kingsofindigo.com/collections/womens-jeans)** - Women's Jean Collection
-- **[Men's Denim - All jeans](https://kingsofindigo.com/collections/mens-jeans)** - Men's Jean Collection
-- **[Explore the KOI collection HERE / Denim + Linen: The Unexpected Style Combo That Just Works](https://kingsofindigo.com/collections/all-jeans)** - All KOI Denim collection and denim-linen style combinations
-- **[exhibition](https://www.canesso.art/eventdetail/49950)** - Exhibition event at Galerie Canesso including works of the 'Master of the Blue Jeans'
-- **[Master of the Blue Jeans](https://issuu.com/artsolution/docs/cat._maitre_toile_de_jeans_a)** - Work catalog of the artist Master of the Blue Jeans
-- **[clothing company](https://www.smithsonianmag.com/smart-news/levis-jeans-150-years-180982241/)** - The 150-year history of Levi Strauss and Levi's blue jeans
 - **[Genoa](https://italiannotes.com/origin-blue-jeans/)** - The origins of blue jeans originating in Genoa
 - **[Nîmes](https://theculturetrip.com/europe/france/articles/how-the-history-of-denim-can-be-traced-back-to-nimes)** - The history of denim fabric tracing back to Nîmes, France
-- **[northwest Italy](https://italysegreta.com/injeanious-genovese-the-fabric-that-clothed-the-world/)** - Fabric production in northwest Italy and Genoa, the weaving that clothed the world
-- **[thought to be](https://www.canesso.art/Media/CanessoMedia/Event/EventDocument/637408563306595780.pdf)** - Previous attribution of Master of the Blue Jeans paintings to different artists and research documents
+- **[When Were Blue Jeans Invented? These Paintings Suggest the Fashion Trend Dates Back to the 1600s](https://www.smithsonianmag.com/smart-news/when-were-blue-jeans-invented-these-paintings-suggest-fashion-trend-dates-back-1600s-180984315/?itm_source=related-content&itm_medium=parsely-api)** - The invention date of blue jeans and its traces in paintings dating back to the 1600s
+- **[Master of the Blue Jeans](https://issuu.com/artsolution/docs/cat._maitre_toile_de_jeans_a)** - Work catalog of the artist Master of the Blue Jeans
 - **[exhibition](https://www.canesso.art/eventdetail/46691)** - Master of the Blue Jeans exhibition held at Galerie Canesso, Paris in 2010
-- **[Journal / AN/ARCHIVE EVENT TWO: blue r/evolution](https://www.polimoda.com/journal/)** - Polimoda Journal Home Page and Denim exhibition, the transformation of denim from workwear to cultural icon
-- **[Roy Roger's / Instagram Post (Roy Roger's / Polimoda)](https://www.royrogers.it/en)** - Italian denim brand Roy Roger's website and Polimoda Instagram post
+- **[These Pants Were Pulled From an 1857 Shipwreck. Are They the World's Oldest Jeans?](https://www.smithsonianmag.com/smart-news/pants-recovered-from-1857-shipwreck-sell-for-114k-at-auction-180981283/?itm_source=related-content&itm_medium=parsely-api)** - Garment recovered from an 1857 shipwreck thought to be the world's oldest jeans
+- **[A Patent for a Pair of Pants Strengthened with Rivets](http://www.google.com/patents?id=XnZNAAAAEBAJ&printsec=abstract&zoom=4&source=gbs_overview_r&cad=0#v=onepage&q&f=false)** - Jacob Davis and Levi Strauss' patent for pants strengthened with rivets
+- **[Antique Duck Trousers](http://americanhistory.si.edu/collections/object.cfm?key=35&objkey=8959)** - Antique riveted canvas pants from 1873-1896 exhibited at the National Museum of American History
+- **[Cache of 19th-Century Blue Jeans Discovered in Abandoned Arizona Mineshaft](https://www.smithsonianmag.com/history/cache-of-19th-century-blue-jeans-discovered-in-abandoned-arizona-mineshaft-180981014/?itm_source=related-content&itm_medium=parsely-api)** - 19th-century jeans discovered in an abandoned mine shaft in Arizona
 - **[The History of Denim](https://levistrauss.com/2019/07/04/the-history-of-denim/)** - The birth of the blue jean in 1873 and the history of denim
 - **[Levi's Put Pants on Women's Movement](https://www.levistrauss.com/2017/03/08/levis-put-pants-womens-movement/)** - The first blue jeans produced for women in 1934 (Lady Levi's®)
+- **[Lady Levi's (Viola - Oldest Women's Levi's Jeans)](https://www.levistrauss.com/2017/08/29/meet-viola-oldest-pair-womens-levis-jeans/)** - The first Levi's denim jeans made exclusively for women in 1934
 - **[Levi's® Tabs](https://www.levistrauss.com/2017/03/01/levis-tabs/)** - Addition of the Red Tab to the back pocket of 501® jeans
+- **[How Denim Became a Political Symbol of the 1960s](https://www.smithsonianmag.com/arts-culture/denim-political-symbol-1960s-180976241/?itm_source=related-content&itm_medium=parsely-api)** - Denim fabric becoming a political symbol in the 1960s
+- **[American Flava: the Levi's Gremlin press release](https://www.hemmings.com/blog/2007/06/30/american-flava-the-levis-gremlin-press-release/)** - The use of denim-themed interior upholstery in cars in the 1970s
+- **[Jeansbeetles.com Chronology and Descriptions](https://jalopnik.com/a-pantload-of-jeans-themed-cars-on-the-anniversary-of-l-508937868)** - Chronology and descriptions of Jeans Beetle models
+- **[Ruling on Tight Jeans and Rape Sets Off Anger in Italy](https://www.nytimes.com/1999/02/16/world/ruling-on-tight-jeans-and-rape-sets-off-anger-in-italy.html)** - Reactions against the tight jeans and rape ruling in Italy
+- **[Italian court reverses 'tight jeans' rape ruling](https://www.independent.ie/world-news/europe/italian-court-reverses-tight-jeans-rape-ruling-26464014.html)** - Italian court reversing the tight jeans ruling
+- **[Why Denim?](https://www.denimdayinfo.org/why-denim)** - Denim Day movement and the reason for choosing denim fabric/jeans
+- **[History of Denim Day](https://www.uwosh.edu/care/denim-day/history-of-denim-day)** - History and origin of Denim Day
+- **[COREVA™](https://www.candianidenim.com/en/coreva)** - Sustainable Denim Innovation COREVA™
+- **[English](https://www.candianidenim.com/en/hub-activism/the-history-of-jeans-part-1-from-the-origin-of-denim-to-indigo/109)** - History of Jeans Part 1: From the Origin of Denim to Indigo
 - **[Project F.L.X. Redefines Future of Jeans](https://www.levistrauss.com/2018/02/27/project-f-l-x-redefines-future-jeans-designed-made-sold/)** - Project F.L.X., which digitizes denim finishing/surface design and development
