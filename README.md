@@ -1,8 +1,8 @@
-# Denim Handbook: A Technical and Historical Analysis
+# Denim Handbook: A Technical and Historical Guide
 
-This repository serves as a comprehensive, open-source academic resource dedicated to the historical analysis, textile engineering, and structural construction of denim garments. It is intended for fashion students, textile researchers, technical garment makers, and dedicated denim enthusiasts ("denimheads"). The material contained herein strictly adheres to objective historical documentation and technical instruction, omitting commercial brand promotion.
+This repository is a comprehensive, open-source guide to the history, textile engineering, and construction of denim garments. It is built for fashion students, researchers, technical garment makers, and dedicated denim enthusiasts ("denimheads"). The material here focuses on objective history and technical instruction, completely free of commercial brand promotion.
 
-**Methodology Note:** This handbook was aggregated and structured with the assistance of artificial intelligence, which autonomously researched, extracted, and synthesized respected online information, academic papers, and historical books to construct this foundational open-source thesis.
+**How this was built:** This handbook was put together with the help of artificial intelligence, which researched, extracted, and combined respected online information, research papers, and historical books to create this foundational open-source guide.
 
 ## Index of Research and Technical Documentation
 
