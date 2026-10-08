@@ -10,6 +10,7 @@ Welcome to the ultimate denimhead's resource list! Here you'll find a hand-picke
 - **Ben Viapiana (Viapiana Custom Denim):** A fantastic behind-the-scenes look from a custom maker, detailing exactly how legendary machines like the Union Special 43200G and the Reece 101 operate in practice.
 - **ISKO Denim Seminars:** Forward-looking industry panels focused on the future of denim, including sustainable textiles, recycled fibers, and eco-friendly dyeing methods.
 - **Den In Denim:** Awesome historical deep-dives into specific vintage eras, featuring close looks at legendary pieces like the 1917 Homer Campbell jeans and the WWII-era S501.
+  - [1947 - Hot Rods, a Loom, & a Tux](https://www.youtube.com/watch?v=Jn7GVRuTfGo): A massive 33-minute deep dive into post-WWII denim history and vintage loom mechanics.
 
 ## Documentary Films
 - **Blue Alchemy: Stories of Indigo (2011):** A great independent documentary that explores the history, chemistry, and worldwide cultural significance of the indigo plant and its dyeing processes.
