@@ -36,5 +36,5 @@ A specialized dictionary defining the technical vocabulary of denim production, 
 ### 9. [Academic and Community Resources](COMMUNITY.md)
 A curated index of supplementary educational materials. It provides references to lectures by textile historians, documentaries regarding sustainable manufacturing, and independent technical resources.
 
-### [Sociology & Economics: Authenticity and Localism](SOCIOECONOMICS.md)
+### 10. [Sociology & Economics: Authenticity and Localism](SOCIOECONOMICS.md)
 An analysis of the sociohistorical phenomena surrounding denim. This document synthesizes academic research regarding the Japanese "mingei" connection to denim authenticity, and examines the Kojima Jeans District as a successful case study in "slow fashion" localism, industrial regeneration, and value-over-volume clustering.
