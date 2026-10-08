@@ -23,3 +23,140 @@ Welcome to the ultimate denimhead's resource list! Here you'll find a hand-picke
 - **[Heddels (formerly RawrDenim)](https://www.heddels.com/)** ([@heddels](https://instagram.com/heddels)): The go-to digital encyclopedia for modern raw denim culture, packed with helpful technical glossaries and brand guides.
 - **[Superfuture (SuFu)](https://supertalk.superfuture.com/)** ([@superfuture](https://instagram.com/superfuture)): A legendary forum and digital archive holding decades of real-world fade data (atari), repair tips, and stories from independent makers.
 - **[r/rawdenim](https://www.reddit.com/r/rawdenim/):** The largest active community of denim enthusiasts on Reddit, featuring daily fit checks, fade galleries, wash experiments, and highly specific sizing advice for niche Japanese brands.
+
+## External Research & Archive Links
+- **[A Short History of Denim](https://www.levistrauss.com/levis-history/)** - Denim tarihi ve Levi Strauss & Co. geçmişi
+- **[27 Revolutionary Denim Innovations You Need to Know](https://www.denimhunters.com/27-denim-innovations/)** - Devrim niteliğindeki denim yenilikleri ve geliştirmeleri
+- **[Story of Denim Blue Jeans across the Eras](https://cmes.uchicago.edu/sites/cmes.uchicago.edu/files/uploads/Global/New%20Story%20of%20Jeans.pdf)** - Denim ve mavi kot pantolonların tarihçesi
+- **[Levi Strauss - The History of Blue Jeans](https://archive.today/20130101191510/http://inventors.about.com/od/sstartinventors/a/Levi_Strauss.htm)** - Levi Strauss ve mavi kot pantolonların tarihi
+- **[How jeans conquered the world](https://www.bbc.com/news/magazine-17101768)** - Kot pantolonların dünya çapındaki popülerliği ve gelişimi
+- **[American Flava: the Levi's Gremlin press release](https://www.hemmings.com/blog/2007/06/30/american-flava-the-levis-gremlin-press-release/)** - 1970'lerde otomobillerde denim temalı iç döşemelerin kullanımı
+- **[Top 10 Obscure Special Editions and Forgotten Limited-Run Models: AMC Edition](http://www.curbsideclassic.com/automotive-histories/top-10-obscure-special-editions-and-forgotten-limited-run-models-amc-edition/)** - AMC araçlarındaki denim temalı özel paketler
+- **[A Pantload Of Jeans-Themed Cars On The Anniversary Of Levi's Patent](https://jalopnik.com/a-pantload-of-jeans-themed-cars-on-the-anniversary-of-l-508937868)** - Jeans temalı otomobiller (Jeans Beetle vb.)
+- **[Jeansbeetles.com Chronology and Descriptions](https://jalopnik.com/a-pantload-of-jeans-themed-cars-on-the-anniversary-of-l-508937868)** - Jeans Beetle modellerinin kronolojisi ve açıklamaları
+- **[How Denim Is Made: Indigo Dyeing](https://web.archive.org/web/20190903003208/https://www.denimhunters.com/how-denim-is-made-indigo-dyeing/)** - Denim üretimi ve çivit boyama (indigo dyeing) süreci
+- **[Rope Dyeing Vs Slasher (Sheet) Dyeing](https://web.archive.org/web/20161012171205/https://www.denimsandjeans.com/denim/manufacturing-process/rope-dyeing-vs-slasher-sheet-dyeing/3117)** - Denim iplik boyama yöntemlerinin (Rope Dyeing ve Slasher Dyeing) karşılaştırılması
+- **[The Denim Weight of Jeans](https://www.unsustainablemagazine.com/the-denim-weight-of-jeans-guide/#:~:text=While%20there%20are%20no%20official,type%20of%20clothing%20being%20made.)** - Kot pantolonlarda kullanılan denim kumaş ağırlıkları
+- **[Denim Fabric / Denim Fabric Supplier](https://fabric-supplier.com/denim-fabric-supplier/)** - Denim Kumaş Tedariği
+- **[Denim Knowledge Blog / Denim Fabric Knowledge Blog](https://fabric-supplier.com/denim-knowledge-blog/)** - Denim Kumaş Bilgi Blogu
+- **[what-is-denim-fabric](https://fabric-supplier.com/what-is-denim/)** - Denim Kumaş Nedir?
+- **[denim-fabric-sourcing-guide](https://fabric-supplier.com/denim-fabric-sourcing-guide/)** - Denim Kumaş Tedarik Rehberi ve Maliyet Hesaplama
+- **[how-raw-denim-becomes-washed-denim-process](https://fabric-supplier.com/denim-washing-process/)** - Ham Denimin Yıkanmış Denime Dönüşüm Süreci
+- **[Recent market reporting](https://www.reuters.com/business/levis-sell-300-jeans-more-stores-tap-growing-demand-premium-denim-2025-11-11/?utm_source=chatgpt.com)** - Levi's Premium Selvedge Denim Hattı ve Pazar Talebi
+- **[regional-denim-characteristics-comparison](https://fabric-supplier.com/denim-origin-guide/)** - Bölgesel Denim Özellikleri Karşılaştırma Rehberi
+- **[Denim Weight & Shrinkage Guide: How to Choose the Right Ounces for Every Garment？](https://fabric-supplier.com/denim-weight-guide/)** - Denim Ağırlığı ve Çekme Rehberi
+- **[Denim Dress Specifications: Weight, Width, and Yarn Count](https://fabric-supplier.com/denim-dress-specifications/)** - Denim Elbise Teknik Özellikleri (Ağırlık, Genişlik, İplik Sayısı)
+- **[Denim Shirt Fabric Specifications: Weight, Wash & PO Template](https://fabric-supplier.com/denim-shirt-fabric-specifications/)** - Denim Gömlek Kumaşı Teknik Özellikleri ve Satın Alma Şablonu
+- **[Denim Jeans Fabric Specifications: Copy-Paste PO Checklist](https://fabric-supplier.com/2870-2denim-jeans-fabric-specifications/)** - Denim Pantolon Kumaş Özellikleri ve Satın Alma Kontrol Listesi
+- **[What type of denim fabric specifications should be used to make a denim jacket?](https://fabric-supplier.com/denim-jacket-fabric-specifications/)** - Denim Ceket Yapımı İçin Denim Kumaş Özellikleri
+- **[Denim Fabric Classifications: The Ultimate Factory Guide](https://fabric-supplier.com/denim-fabric-classifications/)** - Denim Kumaş Sınıflandırmaları ve Türleri
+- **[Turkish](https://fabric-supplier.com/tr/selvedge-denim-nedir/)** - Selvedge Denim Nedir? (Türkçe Sayfa)
+- **[denim](https://www.nippon.com/en/articlelist.html?f=ncf-tag&s=denim)** - Denim ile ilgili makale listesi
+- **[jeans](https://www.nippon.com/en/articlelist.html?f=ncf-tag&s=jeans)** - Kot pantolonlar ile ilgili makale listesi
+- **[Kojima](https://www.nippon.com/en/articlelist.html?f=ncf-tag&s=Kojima)** - Kojima bölgesi ile ilgili makale listesi
+- **[Kojima, Okayama: Japan's Denim Capital Lifestyle Apr. 19, 2012](https://www.nippon.com/en/views/b00602/?cx_recs_click=true)** - Japonya'nın denim başkenti Kojima, Okayama
+- **[Thomas Stege Bojer](https://denimhunters.com/author/thomas/)** - Makale yazarı Thomas Stege Bojer'in profil bağlantısı
+- **[Bluezone](http://www.munichfabricstart.com/bluezone-en.html)** - Munich Fabric Start tarafından düzenlenen bağımsız denim ve spor giyim fuarı
+- **[Register for the show here!](http://www.munichfabricstart.com/visitor-ticket-en.html#_visitorticket=fieldset-first)** - Bluezone denim fuarı için ziyaretçi bilet kayıt sayfası
+- **[Softwear Automation](http://softwearautomation.com/)** - Tam otomatik dikiş hatları sunan otomasyon şirketi
+- **[MYR](https://www.munichfabricstart.com/exhibitor/public/en/premium/profile/ex/myr-srl)** - Kot tasarım süreçlerini dijitalleştiren yaratıcı yazılım
+- **[Sandeep Agarwal](https://www.linkedin.com/in/sandeep376/)** - Denimandjeans.com uzmanı Sandeep Agarwal'ın profili
+- **[Lenzing / Artistic Milliners](https://www.munichfabricstart.com/exhibitor/public/en/premium/profile/ex/Lenzing)** - Tencel, Micromodal ve esnek elyaf teknolojileri üreticisi Lenzing ile Cordura performans denimi üreten Pakistanlı üretici profili
+- **[Tricia Carey](https://www.linkedin.com/in/tricia-carey-726b506/)** - Lenzing firmasından Tricia Carey'nin profili
+- **[Lycra](https://www.munichfabricstart.com/exhibitor/public/en/premium/profile/ex/INVISTA)** - dualFX esneklik teknolojisine sahip Lycra / INVISTA profili
+- **[Klas Dalquist](https://www.linkedin.com/in/klas-dalquist-63503714/)** - Tasarımcı Klas Dalquist'in profili
+- **[Stefano Aldighieri](https://www.linkedin.com/in/stefanoaldighieri/)** - Tasarımcı Stefano Aldighieri'nin profili
+- **[open-end spinning](https://denimhunters.com/how-denim-is-made-spinning/)** - Denim yapımında açık uçlu iplik eğirme (open-end spinning) süreci
+- **[Indigo Textile](https://www.munichfabricstart.com/exhibitor/public/en/premium/profile/ex/indigo-textile-pvt-ltd)** - İplik eğirme yenilikleri sunan Indigo Textile şirketi
+- **[Martin Schaefer](https://www.linkedin.com/in/martin-schaefer-84222965/)** - Indigo Textile firmasından Martin Schaefer'ın profili
+- **[Maarten Wentholt](https://www.linkedin.com/in/maartenwentholt/)** - Denim City uzmanı Maarten Wentholt'un profili
+- **[Artistic Milliners](https://www.munichfabricstart.com/exhibitor/public/en/premium/profile/ex/artisticmilliners)** - Crystal Clear boyama tekniğini geliştiren Artistic Milliners profili
+- **[Candiani](https://www.munichfabricstart.com/exhibitor/public/en/premium/profile/ex/candiani-spa-)** - N-Denim azot boyama ve Re-Gen kumaş teknolojisini geliştiren Candiani
+- **[Simon Giuliani](https://www.linkedin.com/in/simongiuliani/)** - Candiani Pazarlama Müdürü Simon Giuliani'nin profili
+- **[a recent blog post](https://denimhunters.com/munich-fabric-start-bluezone-man-machine/)** - Yapay zekanın kot tasarım süreçlerine etkisi hakkındaki blog yazısı
+- **[Giovanni Petrin](https://www.linkedin.com/in/giovanni-petrin-89123a112/)** - Martelli yıkama tesislerinin eski genel müdürü Giovanni Petrin'in profili
+- **[Michael Kampe](https://www.linkedin.com/in/michael-kampe-431b0838/)** - Hugo Boss Tasarım Başkanı Michael Kampe'nin profili
+- **[Christine Rucci](https://www.linkedin.com/in/christinerucci/)** - 3D beden tarama yazılımlarıyla çalışan tasarımcı Christine Rucci'nin profili
+- **[YouTube Video - Denim Yenilikleri](https://youtu.be/zI7u9V5aYt4?t=8s)** - Denim yenilikleri ve teknolojileri ile ilgili video içeriği
+- **[Ebru Ozaydin](https://www.linkedin.com/in/ebru-ozaydin-06027b69/)** - Denim kesim ve dikim otomasyonu üzerine görüş belirten Ebru Özaydın'ın profili
+- **[Alice Tonello](https://www.linkedin.com/in/tonelloalice/)** - Ozon yıkama teknolojisi uzmanı Alice Tonello'nun profili
+- **[YouTube Video - Ozon Yıkama](https://youtu.be/UzFYGZu90ek?t=37s)** - Ozonlu kot yıkama ve ağartma teknolojisi gösterimi
+- **[Gonser Group](https://www.munichfabricstart.com/exhibitor/public/en/premium/profile/ex/gonser-group)** - Otomatik lazer ve robotik sprey üretim hattı hazırlayan Gonser Group
+- **[Alvise Arcaro](https://www.linkedin.com/in/alvisearcaro/)** - Gonser Group Yaratıcı Danışmanı Alvise Arcaro'nun profili
+- **[Levi's 701 women's jeans](http://go.redirectingat.com/?id=56205X1329855&xs=1&url=http%3A%2F%2Fwww.levi.com%2FUS%2Fen_US%2Fwomens-jeans%2Fp%2F507010010&sref=1950sStylePants)** - 1950'ler stilini temel alan kadın kot pantolonu
+- **[Men's Vintage Denim Jeans History](https://vintagedancer.com/vintage/mens-vintage-denim-jeans-history/)** - Erkek vintage denim ve kot pantolon tarihi
+- **[Shop 1940s pants and jeans / 1940s Women's Jeans](https://vintagedancer.com/1940s/womens-1940s-style-pants/)** - 1940'lar stiline uygun kadın pantolon ve kot markaları ile modelleri
+- **[1950s style pants women / 1950s Women's Jeans](https://vintagedancer.com/1950s/1950s-style-pants-women/)** - 1950'ler stiline uygun yüksek belli dar kesim kotlar ve marka modelleri
+- **[1960s style women's pants / Shop 1960s/1970s Jeans / 1960s Women's Jeans](https://vintagedancer.com/1960s/1960s-style-womens-pants/)** - 1960'lar ve 1970'ler stili ispanyol paça, vintage kotlar ve marka modelleri
+- **[Women's 1940s pants styles / Denim dungarees](https://vintagedancer.com/1940s/womens-1940s-pants-styles/)** - 1940'lar stili denim bahçıvan pantolonları ve tulumlar
+- **[Freddies of Pinewood](http://www.freddiesofpinewood.co.uk/categories/mens/)** - Erkek ve kadın 1940'lar ile 1950'ler stili kotlar ve gömlekler
+- **[Lady K Loves](http://www.lady-k-loves.com/jeans-s/107.htm)** - 1950'ler stilinde kadın pantolon ve kotları
+- **[Vintage Levi's](http://www.levi.com/US/en_US/category/men/clothing/collections/levi-collections-vintageclothing)** - 1900-1990'lar arası yeniden üretilen nostaljik Levi's kotlar
+- **[Search EBSCOhost / Research Starters Home](https://login.ebsco.com/)** - Akademik içerik arama, EBSCOhost platformuna giriş ve Research Starters başlangıç rehberi
+- **[Go to EBSCOhost / Cotton / Levi Strauss / World War II / Counterculture of the 1960s / Hippies / Rebel Without a Cause (film) / Calvin Klein / Gloria Vanderbilt / Key Figures / Summary of Event / Significance / Bibliography / 20th century fashion / Jeans (Clothing) / Fashion / United States](https://openurl.ebsco.com/results?sid=ebsco%3Aebsco.com%3ARS&bquery=Denim%20Jeans%20Become%20Accepted%20as%20Fashion&link_origin=https%3A//www.ebsco.com)** - Denim Jeans Become Accepted as Fashion konusuyla ilgili içeriklere, arama sonuçlarına ve ilgili konulara erişim
+- **[cotton](https://www.ebsco.com/research-starters/science/cotton)** - Denim kumaşının ana bileşeni olan pamuk lifinin özellikleri
+- **[levi-strauss](https://www.ebsco.com/research-starters/history/levi-strauss)** - Blue jeans'in öncüsü Levi Strauss'un hayatı ve giyim endüstrisine katkıları
+- **[world-war-ii](https://www.ebsco.com/research-starters/military-history-and-science/world-war-ii)** - II. Dünya Savaşı sırasında denimin askeri ve savunma alanında kullanımı
+- **[counterculture-1960s](https://www.ebsco.com/research-starters/history/counterculture-1960s)** - 1960'ların karşı kültür hareketleri ve giyim tercihleri
+- **[hippies](https://www.ebsco.com/research-starters/history/hippies)** - Hippiler ve denim kumaşın alternatif giyim sembolü olması
+- **[rebel-without-cause-film](https://www.ebsco.com/research-starters/film/rebel-without-cause-film)** - Rebel Without a Cause filmi ve James Dean'in kot pantolonu popülerleştirmesi
+- **[calvin-klein](https://www.ebsco.com/research-starters/biography/calvin-klein)** - Moda tasarımcısı Calvin Klein'ın hayatı ve designer jeans pazarındaki rolü
+- **[gloria-vanderbilt](https://www.ebsco.com/research-starters/womens-studies-and-feminism/gloria-vanderbilt)** - Tasarımcı kot üreticisi ve moda ikonu Gloria Vanderbilt
+- **[Levi's 501 jeans](https://www.levi.com/US/en_US/clothing/men/jeans/c/levi_clothing_men_jeans/facets/feature-fit_name/501%C2%AE)** - Levi's 501 kot pantolon ürün kategorisi ve modelleri
+- **[Jeans: A Cultural History of an American Icon](https://www.amazon.com/Jeans-Cultural-History-American-Icon/dp/1592402895)** - James Sullivan'ın kot pantolonların kültürel tarihini ele aldığı kitabı
+- **[After 150 Years, Levi's 501 Blue Jeans Are Still Kicking](https://www.smithsonianmag.com/smart-news/levis-jeans-150-years-180982241/?itm_source=related-content&itm_medium=parsely-api)** - Levi's 501 kot pantolonlarının 150 yıllık geçmişi ve kültürel etkisi
+- **[The Origin of Blue Jeans](https://www.smithsonianmag.com/smithsonian-institution/the-origin-of-blue-jeans-89612175/?itm_source=related-content&itm_medium=parsely-api)** - Mavi kot pantolonların kökeni ve tarihsel gelişimi
+- **[Cache of 19th-Century Blue Jeans Discovered in Abandoned Arizona Mineshaft](https://www.smithsonianmag.com/history/cache-of-19th-century-blue-jeans-discovered-in-abandoned-arizona-mineshaft-180981014/?itm_source=related-content&itm_medium=parsely-api)** - Arizona'da terk edilmiş bir maden ocağında bulunan 19. yüzyıla ait kot pantolonlar
+- **[When Were Blue Jeans Invented? These Paintings Suggest the Fashion Trend Dates Back to the 1600s](https://www.smithsonianmag.com/smart-news/when-were-blue-jeans-invented-these-paintings-suggest-fashion-trend-dates-back-1600s-180984315/?itm_source=related-content&itm_medium=parsely-api)** - Mavi kot pantolonların icat tarihi ve 1600'lü yıllara uzanan tablolardaki izleri
+- **[Lady Levi's (Viola - En Eski Kadın Levi's Kot Pantolonu)](https://www.levistrauss.com/2017/08/29/meet-viola-oldest-pair-womens-levis-jeans/)** - 1934 yılında kadınlar için özel olarak üretilen ilk Levi's denim kot pantolonu
+- **[Denim Day brings big push for sexual assault awareness](http://www.insidebayarea.com/news/ci_12203751)** - Cinsel saldırı farkındalığı ve Denim Day duyurusu
+- **[Denim Day Attempts Prevention and Awareness](https://archive.today/20110713191729/http://media.www.lavalleystar.com/media/storage/paper295/news/2009/04/29/News/Denim.Day.Attempts.Prevention.And.Awareness-3730047.shtml)** - Cinsel saldırıyı önleme ve farkındalık çalışmaları
+- **[SAFE in Hunterdon's Denim Day](https://archive.today/20110718190049/http://njmonthly.com/events/3977.html)** - SAFE in Hunterdon kapsamındaki Denim Day etkinlikleri
+- **[The Herald (Glasgow)](https://archive.today/20130131194507/http://pqasb.pqarchiver.com/smgpubs/67341615.html?did=67341615&FMT=ABS&FMTS=FT&date=Jan+26,+2001&author=Jim+McLean&pub=The+Herald&desc=Italian+judges+draw+line+on+when+pat+on+bottom+is+not+sexual+harassment)** - İtalyan hakimlerin cinsel taciz kararları hakkındaki haber
+- **[The Los Angeles Times](https://pqasb.pqarchiver.com/latimes/access/327878201.html?dids=327878201:327878201&FMT=ABS&FMTS=ABS:FT&type=current&date=Apr+24%2C+2003&author=Jessica+Garrison&pub=Los+Angeles+Times&edition=&startpage=B.4&desc=City+Council+Sends+a+Message+in+Denim)** - Los Angeles Belediye Meclisi'nin kot giyerek verdiği mesaj
+- **[Denim Day Celebrates 20 Years of Advocacy for Sexual Violence Survivors](https://spectrumnews1.com/ca/la-west/news/2019/04/24/denim-day-celebrates-20-years-of-advocacy-for-sexual-violence-survivors/)** - Cinsel şiddet mağdurları savunuculuğunun 20. yılı ve Denim Day
+- **[Denim Day's history of international solidary against sexual assault](https://www.army.mil/article/245281/denim_days_history_of_international_solidary_against_sexual_assault)** - Cinsel saldırıya karşı uluslararası dayanışmanın ve Denim Day'in tarihi
+- **[Why Denim?](https://www.denimdayinfo.org/why-denim)** - Denim Day hareketi ve kot kumaşının/pantolonun seçilme nedeni
+- **[Italian court reverses 'tight jeans' rape ruling](https://www.independent.ie/world-news/europe/italian-court-reverses-tight-jeans-rape-ruling-26464014.html)** - İtalyan mahkemesinin dar kot kararlarını bozması
+- **[Ruling on Tight Jeans and Rape Sets Off Anger in Italy](https://www.nytimes.com/1999/02/16/world/ruling-on-tight-jeans-and-rape-sets-off-anger-in-italy.html)** - İtalya'da dar kot ve tecavüz kararına karşı oluşan tepkiler
+- **[Denim Day 2020](https://careadvocate.ucsf.edu/events/denim-day-2020)** - Denim Day 2020 etkinlik ve savunuculuk kaynakları
+- **[Rape, Blue Jeans, and Judicial Developments in Italy (Columbia Journal of European Law)](https://web.archive.org/web/20110828180548/http://www.cjel.net/online/16_1-faedi/)** - İtalya'da kot pantolon vakası ve yargısal gelişmeler
+- **[Rape, Blue Jeans, and Judicial Developments in Italy (Digital Commons)](https://digitalcommons.law.ggu.edu/pubs/104)** - Kot pantolon kararı ve İtalya'daki cinsel saldırı davaları analizi
+- **[Rape, Blue Jeans, and Judicial Developments in Italy (PDF)](https://web.archive.org/web/20160220215528/http://www.cjel.net/wp-content/uploads/2009/11/faedi.pdf)** - Cinsel saldırı, kot pantolon savunması ve yasal süreçler
+- **[La 'sentenza dei jeans' tra maschilismo e garantismo](https://www.repubblica.it/online/fatti/jeans/tridico/tridico.html)** - Kot pantolon kararı hakkındaki tartışmalar
+- **[History of Denim Day](https://www.uwosh.edu/care/denim-day/history-of-denim-day)** - Denim Day'in tarihçesi ve kökeni
+- **[Denim Day Observation for Promoting Awareness of Sexual Assault](https://www.america-times.com/denim-day-awareness-sexual-assault/)** - Cinsel saldırı farkındalığını artırmak için Denim Day gözlemi
+- **[Denim Day Official Site](http://denimdayinfo.org/)** - Denim Day resmi bilgilendirme, kampanya ve farkındalık platformu
+- **[A Patent for a Pair of Pants Strengthened with Rivets](http://www.google.com/patents?id=XnZNAAAAEBAJ&printsec=abstract&zoom=4&source=gbs_overview_r&cad=0#v=onepage&q&f=false)** - Jacob Davis ve Levi Strauss'un perçinle güçlendirilmiş pantolon patenti
+- **[Antique Duck Trousers](http://americanhistory.si.edu/collections/object.cfm?key=35&objkey=8959)** - Amerikan Tarihi Müzesi'nde sergilenen 1873-1896 yılları arasına ait antik perçinli kanvas pantolon
+- **[How Denim Became a Political Symbol of the 1960s](https://www.smithsonianmag.com/arts-culture/denim-political-symbol-1960s-180976241/?itm_source=related-content&itm_medium=parsely-api)** - Denim kumaşının 1960'larda siyasi bir sembol haline gelişi
+- **[These Pants Were Pulled From an 1857 Shipwreck. Are They the World's Oldest Jeans?](https://www.smithsonianmag.com/smart-news/pants-recovered-from-1857-shipwreck-sell-for-114k-at-auction-180981283/?itm_source=related-content&itm_medium=parsely-api)** - 1857 batan gemi enkazından çıkarılan ve dünyanın en eski kot pantolonu olabileceği düşünülen giysi
+- **[English](https://www.candianidenim.com/en/hub-activism/the-history-of-jeans-part-1-from-the-origin-of-denim-to-indigo/109)** - Jeans Tarihi Bölüm 1: Denim Menşeinden İndigoya
+- **[Italiano](https://www.candianidenim.com/it/hub-activism/il-jeans-e-la-sua-storia-parte-1-dallorigine-del-denim-allindaco/109)** - Jeans Tarihi Bölüm 1: Denim Menşeinden İndigoya
+- **[Indigo](https://www.candianidenim.com/en/indigo-rinse)** - İndigo Denim Yıkama Ürünleri
+- **[Black](https://www.candianidenim.com/en/black-rinse)** - Siyah Denim Yıkama Ürünleri
+- **[Ecru](https://www.candianidenim.com/en/ecru-rinse)** - Ekru Denim Yıkama Ürünleri
+- **[Raw Selvedge](https://www.candianidenim.com/en/raw-selvedge)** - Ham Kenarlı (Selvedge) Denim Ürünleri
+- **[Candiani Corner](https://www.candianidenim.com/en/candiani-corner)** - Candiani Denim Özel Alanı
+- **[Candiani Custom](https://www.candianidenim.com/en/candiani-custom)** - Özel Üretim Candiani Denim
+- **[Fabrics](https://www.candianidenim.com/en/innovation/products)** - Denim Kumaş İnovasyonları ve Kumaş Çeşitleri
+- **[Hub Activism](https://www.candianidenim.com/en/hub-activism)** - Denim Kültürü ve Aktivizm Yazıları
+- **[History](https://www.candianidenim.com/en/hub-activism?cat_id=11)** - Denim ve Jeans Tarihi Kategori Sayfası
+- **[COREVA™](https://www.candianidenim.com/en/coreva)** - Sürdürülebilir Denim İnovasyonu COREVA™
+- **[Women's Denim - All jeans](https://kingsofindigo.com/collections/womens-jeans)** - Kadın Jean Koleksiyonu
+- **[Men's Denim - All jeans](https://kingsofindigo.com/collections/mens-jeans)** - Erkek Jean Koleksiyonu
+- **[Explore the KOI collection HERE / Denim + Linen: The Unexpected Style Combo That Just Works](https://kingsofindigo.com/collections/all-jeans)** - Tüm KOI Denim koleksiyonu ve denim-keten stil kombinasyonları
+- **[exhibition](https://www.canesso.art/eventdetail/49950)** - Galerie Canesso'da 'Master of the Blue Jeans' eserlerini de içeren sergi etkinliği
+- **[Master of the Blue Jeans](https://issuu.com/artsolution/docs/cat._maitre_toile_de_jeans_a)** - Master of the Blue Jeans (Kotların Ustası) sanatçısının eser kataloğu
+- **[clothing company](https://www.smithsonianmag.com/smart-news/levis-jeans-150-years-180982241/)** - Levi Strauss ve Levi's blucinlerinin 150 yıllık geçmişi
+- **[Genoa](https://italiannotes.com/origin-blue-jeans/)** - Blucinlerin Cenevre (Genoa) menşeli kökenleri
+- **[Nîmes](https://theculturetrip.com/europe/france/articles/how-the-history-of-denim-can-be-traced-back-to-nimes)** - Denim kumaşının Fransa'nın Nîmes kentine uzanan tarihi
+- **[northwest Italy](https://italysegreta.com/injeanious-genovese-the-fabric-that-clothed-the-world/)** - Kuzeybatı İtalya ve Cenevre'de kumaş üretimi ve dünyayı giydiren dokuma
+- **[thought to be](https://www.canesso.art/Media/CanessoMedia/Event/EventDocument/637408563306595780.pdf)** - Master of the Blue Jeans tablolarının daha önce farklı sanatçılara atfedilmesi ve araştırma belgeleri
+- **[exhibition](https://www.canesso.art/eventdetail/46691)** - 2010 yılında Paris Galerie Canesso'da düzenlenen Master of the Blue Jeans sergisi
+- **[Journal / AN/ARCHIVE EVENT TWO: blue r/evolution](https://www.polimoda.com/journal/)** - Polimoda Journal Ana Sayfası ve Denim sergisi, denimin iş kıyafetinden kültür ikonuna dönüşümü
+- **[Roy Roger's / Instagram Gönderisi (Roy Roger's / Polimoda)](https://www.royrogers.it/en)** - İtalyan denim markası Roy Roger's web sitesi ve Polimoda Instagram paylaşımı
+- **[The History of Denim (Denim Geçmişi)](https://levistrauss.com/2019/07/04/the-history-of-denim/)** - 1873 yılında mavi kotun (blue jean) doğuşu ve denim tarihi
+- **[Levi's Put Pants on Women's Movement](https://www.levistrauss.com/2017/03/08/levis-put-pants-womens-movement/)** - 1934 yılında kadınlar için üretilen ilk mavi kot (Lady Levi's®)
+- **[Levi's® Tabs](https://www.levistrauss.com/2017/03/01/levis-tabs/)** - 501® kot pantolonların arka cebine Red Tab (Kırmızı Etiket) eklenmesi
+- **[Project F.L.X. Redefines Future of Jeans](https://www.levistrauss.com/2018/02/27/project-f-l-x-redefines-future-jeans-designed-made-sold/)** - Denim bitirme/yüzey tasarımını ve geliştirilmesini dijitalleştiren Project F.L.X.
