@@ -44,6 +44,8 @@ While there were plenty of makers back in the day, three legendary companies bui
 The inventors of the riveted jean! This name is famous for **Right Hand Twill (RHT)**, classic unsanforized "Shrink-to-Fit" denim, and copper hardware.
 - **Key Milestones:**
   - **1873 "XX" Waist Overalls:** The very first riveted work pants.
+  - **1934 Lady Levi's (Lot 701):** Levi's revolutionized women's fashion by dropping the first-ever blue jeans designed exclusively for women. Originally pitched to women vacationing on Western "dude ranches," the high-waisted 701 quickly became a badass symbol of female independence and rebellion.
+  - **1936 The Red Tab:** With rival brands pumping out dark denim jeans with similar pocket stitching, Levi's needed a way to stand out. National sales manager Chris Lucier came up with the genius idea to sew a tiny red ribbon with "LEVI'S" woven in white onto the right back pocket. This tiny addition made a pair of Levi's instantly recognizable from across the street.
   - **1937 501:** The introduction of the hidden back pocket rivet. The story goes that factory manager M. Granborn came up with this so the copper wouldn't scratch up horse saddles and fancy furniture—though some historians still debate this!
   - **1944 S501 (WWII):** The stripped-down wartime version.
   - **1947 501:** The ultimate post-war classic.
@@ -80,6 +82,6 @@ By the 1980s, mass-market American denim had lost a lot of its soul thanks to ch
 ## The Future: Making Denim Greener
 Today's denim makers are working hard to fix the environmental impact of making our favorite jeans:
 - **Zero-Waste Weaving:** Some forward-thinking mills are using high-tech jacquard looms to weave entire garments—pockets and all—as one continuous piece, totally eliminating fabric waste. This is heavily boosted by the open-source sharing of digital CAD patterns to help everyone make less waste.
-- **Laser Fades:** First seen in Japan around 2002, lasers are now a game-changer for creating realistic wear patterns without the nasty chemicals and massive water waste of traditional stone washing.
+- **Laser Fades & Project F.L.X.:** First seen in Japan around 2002, lasers are now a game-changer for creating realistic wear patterns without the nasty chemicals and massive water waste of traditional stone washing. In 2018, Levi's turbocharged this tech with **Project F.L.X.** (future-led execution). This wild digital operating model ditches toxic chemicals like potassium permanganate and brutal manual hand-sanding. Instead, designers digitally craft the wear patterns, and precision lasers burn those exact fades onto raw denim in roughly 90 seconds!
 - **Digital Indigo:** To avoid the messy and sometimes toxic vat-dyeing process, the industry is looking into 3D digital printing to apply indigo and pre-planned fades directly onto the fabric!
 - **Open-Source Hardware:** While old-school brands loved to lock down their secrets with patents, today's independent makers are all about open-source tech. They want to share the knowledge so students and creators can tweak and improve the craft without legal headaches.

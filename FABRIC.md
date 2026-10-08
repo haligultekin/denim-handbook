@@ -49,6 +49,11 @@ Knowing where your denim was woven tells you a lot about its history and charact
 ### United States (The Historic Roots)
 - **Cone Denim (White Oak):** The stuff of legends. They were famous for running the historic **Draper X3** shuttle looms, which were the exclusive source of Levi's selvedge denim until the plant sadly closed its doors in 2017.
 
+## The Stretch Denim Revolution & COREVA™
+Stretch denim changed the game in the 70s and 80s by weaving synthetic elastane (like spandex) into the cotton. While it made skinny fits incredibly comfortable, those synthetic fibers are basically plastic, making the jeans a nightmare for the environment and impossible to compost.
+
+Enter the eco-wizards at **Candiani Denim** with a massive innovation: **COREVA™**. This patented tech is the world's first plant-based, biodegradable, and compostable stretch denim. By replacing synthetic elastomers with a natural rubber core wrapped in organic cotton, Candiani engineered a fabric that stretches perfectly but actually returns to the earth at the end of its life. To prove how safe and natural it is, the Candiani team literally buried COREVA™ denim offcuts in the soil to use as fertilizer for growing tomatoes—and then made a killer pasta sauce from the harvest! Talk about a sustainable flex.
+
 ## Denim Recycling Challenges
 We all love the idea of turning old jeans into new jeans, but recycling denim isn't as simple as tossing it in a shredder. When you break down old denim, the fibers take a serious beating! 
 - **The Short Fiber Problem:** The mechanical shredding process chops the cotton fibers down to a fraction of their original length (often under 0.5 inches). These short fibers become almost impossible to spin into strong new yarn for jeans, usually ending up relegated to insulation stuffing or nonwoven materials.
