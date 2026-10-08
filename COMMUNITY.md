@@ -3,7 +3,7 @@
 Welcome to the ultimate denimhead's resource list! Here you'll find a hand-picked collection of open-source materials, archives, and expert deep-dives into the history and making of our favorite fabric.
 
 ## Video Archives and Masterclasses
-- **[Mohsin Sajid (Endrime) Masterclasses & Lectures](https://www.youtube.com/@DenimHistory)** ([@mohsinsajid](https://instagram.com/mohsinsajid)): An incredible resource for learning about zero-waste cutting, technical pattern drafting, and getting a close look at the mechanics of industrial sewing machinery.
+- **[Mohsin Sajid (Endrime) Masterclasses & Lectures](https://www.youtube.com/@denimworldco)** ([@mohsinsajid](https://instagram.com/mohsinsajid)): An incredible resource for learning about zero-waste cutting, technical pattern drafting, and getting a close look at the mechanics of industrial sewing machinery.
   - [MOHSIN SAJID - 1 Hour Denim Lecture "From Archive to Future"](https://www.youtube.com/watch?v=4hsX6EB3Las): A comprehensive deep-dive into how archive pieces and historical construction techniques inspire modern denim design.
   - [BLUEZONE HISTORICAL DENIM PATENTS LECTURE by MOHSIN SAJID](https://www.youtube.com/watch?v=lVImn-6sP48): A 30-minute masterclass examining the history of structural utility patents that shaped modern workwear.
 - **[CoatsCast](https://www.coats.com/en/podcast)** ([@coats_group](https://instagram.com/coats_group)): Fascinating industry talks diving into thread types, tensile strength, and historical sewing techniques.
