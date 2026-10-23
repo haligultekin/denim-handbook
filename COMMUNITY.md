@@ -1,8 +1,19 @@
 # Essential Reference Library, Archives & Community Resources
 
-Welcome to the ultimate denimhead's reference library and resource directory! Here you'll find a hand-picked collection of foundational literature, open-source archives, masterclasses, and documentary deep-dives into the history, engineering, and cultural impact of our favorite fabric.
+> **Chapter 9 of 10** | **[⬅️ Previous: Lexicon & Glossary](GLOSSARY.md)** · [🏠 Handbook Home](README.md) · **[Next: Socioeconomics & Authenticity ➡️](SOCIOECONOMICS.md)**
 
-## Essential Literature & Foundational Reference Books
+---
+
+## Table of Contents
+1. [Essential Literature and Foundational Reference Books](#essential-literature-and-foundational-reference-books)
+2. [Video Archives and Masterclasses](#video-archives-and-masterclasses)
+3. [Documentary Films](#documentary-films)
+4. [Digital Encyclopedias and Forums](#digital-encyclopedias-and-forums)
+5. [External Research and Archive Links](#external-research-and-archive-links)
+
+---
+
+## Essential Literature and Foundational Reference Books
 
 For makers, researchers, and dedicated denimheads seeking deeper ground truth, these cornerstone texts document the machinery, social movements, and industrial heritage of denim:
 
@@ -41,7 +52,7 @@ For makers, researchers, and dedicated denimheads seeking deeper ground truth, t
 - **[Superfuture (SuFu)](https://supertalk.superfuture.com/)** ([@superfuture](https://instagram.com/superfuture)): A legendary forum and digital archive holding decades of real-world fade data (atari), repair tips, and stories from independent makers.
 - **[r/rawdenim](https://www.reddit.com/r/rawdenim/):** The largest active community of denim enthusiasts on Reddit, featuring daily fit checks, fade galleries, wash experiments, and highly specific sizing advice for niche Japanese brands.
 
-## External Research & Archive Links
+## External Research and Archive Links
 - **[Genoa](https://italiannotes.com/origin-blue-jeans/)** - The origins of blue jeans originating in Genoa
 - **[Nîmes](https://theculturetrip.com/europe/france/articles/how-the-history-of-denim-can-be-traced-back-to-nimes)** - The history of denim fabric tracing back to Nîmes, France
 - **[When Were Blue Jeans Invented? These Paintings Suggest the Fashion Trend Dates Back to the 1600s](https://www.smithsonianmag.com/smart-news/when-were-blue-jeans-invented-these-paintings-suggest-fashion-trend-dates-back-1600s-180984315/?itm_source=related-content&itm_medium=parsely-api)** - The invention date of blue jeans and its traces in paintings dating back to the 1600s
@@ -65,3 +76,7 @@ For makers, researchers, and dedicated denimheads seeking deeper ground truth, t
 - **[COREVA™](https://www.candianidenim.com/en/coreva)** - Sustainable Denim Innovation COREVA™
 - **[English](https://www.candianidenim.com/en/hub-activism/the-history-of-jeans-part-1-from-the-origin-of-denim-to-indigo/109)** - History of Jeans Part 1: From the Origin of Denim to Indigo
 - **[Project F.L.X. Redefines Future of Jeans](https://www.levistrauss.com/2018/02/27/project-f-l-x-redefines-future-jeans-designed-made-sold/)** - Project F.L.X., which digitizes denim finishing/surface design and development
+
+---
+
+> **Chapter 9 of 10** | **[⬅️ Previous: Lexicon & Glossary](GLOSSARY.md)** · [🏠 Handbook Home](README.md) · **[Next: Socioeconomics & Authenticity ➡️](SOCIOECONOMICS.md)**

@@ -1,6 +1,19 @@
 # Drafting and Construction: Building the Classic Five-Pocket Jean
 
-This guide walks you through the structural assembly, material requirements, and layout planning needed to build a standard pair of five-pocket jeans. 
+> **Chapter 6 of 10** | **[⬅️ Previous: Machinery & Looms](MACHINES.md)** · [🏠 Handbook Home](README.md) · **[Next: Care & Maintenance ➡️](CARE.md)**
+
+---
+
+## Table of Contents
+1. [Material and Fabric Requirements](#material-and-fabric-requirements)
+   - [Hardware and Fasteners](#hardware-and-fasteners)
+2. [Zero-Waste Cutting and Layout Plans](#zero-waste-cutting-and-layout-plans)
+3. [The Assembly Line: Order of Operations](#the-assembly-line-order-of-operations)
+   - [Seam Construction: The Flat-Felled Seam](#seam-construction-the-flat-felled-seam)
+4. [Historical Upcycling Blueprint: The 1974 8-Panel Newsboy Cap](#historical-upcycling-blueprint-the-1974-8-panel-newsboy-cap)
+5. [Digital Pattern Archives & CAD Downloads](#digital-pattern-archives-cad-downloads)
+
+---
 
 ## Material and Fabric Requirements
 *(Note: Digital vector files for pattern adaptation are safely archived within the [Patterns Directory](patterns/INDEX.md)).*
@@ -34,7 +47,20 @@ Sewing a five-pocket jean usually follows a very specific sequence for the best 
 
 1. **Edge Finishing (Overlocking):** First, secure all your raw edges (like the crotch seams, inseams, and fly extensions) with a serger so they don't unravel during construction.
 2. **Prepping the Back Pockets:** Sew on your decorative arcuate stitching, fold and stitch the top hems, and add any bar-tacks to reinforce the corners.
-3. **Attaching the Yoke:** Join the rear yoke to the back leg panels. A flat-felled chainstitch machine (like the legendary Union Special 35800) gives you maximum strength here!
+3. **Attaching the Yoke:** Join the rear yoke to the back leg panels using a flat-felled seam.
+
+### Seam Construction: The Flat-Felled Seam
+The flat-felled seam is the structural backbone of workwear jeans, encasing all raw edges inside interlocked folds:
+
+```text
+                  Needle 1    Needle 2
+                     ↓           ↓
+Top Ply:    ═════════╗   ┌─────────────────────── (Right Side)
+                     ║   │
+Bottom Ply: ─────────┘   ╚═══════════════════════ (Wrong Side)
+```
+*Two rows of chainstitches punch through all four interlocked layers simultaneously, making the seam virtually tear-proof under tension.*
+
 4. **Placing the Back Pockets:** Sew your prepped pockets onto the assembled back panels.
 5. **Building the Front Pockets:** Construct the coin pocket and attach the sturdy pocket bags to the front leg panels.
 6. **Installing the Fly:** Build the front rise, installing either your buttons or your zipper.
@@ -53,4 +79,15 @@ Denim makers have always hated wasting good fabric. During the 1970s counter-cul
 3. **Incorporating Artifacts:** Intentionally position your pattern cuts over original garment details—place an authentic copper pocket rivet, a Red Tab, a Two-Horse leather patch, or a back pocket corner across one or two of the crown panels to give the cap immediate vintage character.
 4. **Crown Assembly:** Stitch the eight panels together along their curved edges to form the hemispherical shell of the cap.
 5. **Visor & Stiffener:** Cut two crescent-shaped visor pieces. Sew along the outer curved edge, turn right side out, and insert a curved piece of stiff cardboard or recycled plastic inside before topstitching to the front crown.
-6. **Lining & Sweatband:** Sew a 4-inch wide strip of satin or cotton twill (sized 2 inches longer than head circumference) to a 10-inch circular lining crown, then stitch into the cap shell. 
+6. **Lining & Sweatband:** Sew a 4-inch wide strip of satin or cotton twill (sized 2 inches longer than head circumference) to a 10-inch circular lining crown, then stitch into the cap shell.
+
+---
+
+## Digital Pattern Archives & CAD Downloads
+Looking for ready-to-print vector blocks? Visit the **[Pattern Archive](patterns/INDEX.md)** for detailed drafting notes, or download the direct vector assets:
+- **[1947 Five-Pocket Jean Block & Selvedge Lay Plan (SVG)](patterns/1947_five_pocket_jean_block.svg)** — Definitive mid-century straight leg nesting schematic on 30" selvedge denim.
+- **[1974 8-Panel Upcycled Newsboy Cap Block (SVG)](patterns/1974_newsboy_cap_8panel.svg)** — 1:1 scale zero-waste upcycling pattern for scrap and leg denim.
+
+---
+
+> **Chapter 6 of 10** | **[⬅️ Previous: Machinery & Looms](MACHINES.md)** · [🏠 Handbook Home](README.md) · **[Next: Care & Maintenance ➡️](CARE.md)** 

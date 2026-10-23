@@ -1,6 +1,14 @@
 # The Socioeconomics of Denim: Authenticity, Counter-Culture, and Localism
 
-Why do blue jeans hold such an enduring grip on global culture? Denim’s resonance goes far beyond aesthetics—it is woven deeply into the history of labor rights, civil rights protests, artisanal revival movements, and localized economic resilience.
+> **Chapter 10 of 10** | **[⬅️ Previous: Reference Library](COMMUNITY.md)** · [🏠 Handbook Home](README.md)
+
+---
+
+## Table of Contents
+1. [Proletarian Roots to Counter-Cultural Armor](#1-proletarian-roots-to-counter-cultural-armor)
+2. [Mill Town Commons: The White Oak Community Model](#2-mill-town-commons-the-white-oak-community-model)
+3. [Japanese Denim and the Meaning of Authenticity](#3-japanese-denim-and-the-meaning-of-authenticity)
+4. [Localized Industrial Revival: The Kojima Jeans District](#4-localized-industrial-revival-the-kojima-jeans-district)
 
 ---
 
@@ -39,3 +47,7 @@ Kojima, located in Okayama Prefecture, Japan, represents a worldwide model for h
 - **Vertical Geographical Clustering:** In Kojima, every stage of the denim lifecycle—spinning, rope dyeing, shuttle weaving, cutting, sewing, and artisanal washing—occurs within a small geographic radius. This allows makers to iterate rapidly and maintain extreme quality control.
 - **Value Over Volume:** Instead of competing with low-cost mass manufacturers in a global race to the bottom, Kojima pivoted exclusively to high-value, small-batch selvedge production. 
 - **The "Made in Kojima" Standard:** Kojima transformed local regional expertise into an internationally recognized mark of excellence, demonstrating that localized, artisanal manufacturing can thrive sustainably in a world dominated by disposable fast fashion.
+
+---
+
+> **Chapter 10 of 10** | **[⬅️ Previous: Reference Library](COMMUNITY.md)** · [🏠 Handbook Home](README.md) · **[Back to Top ⬆️](#the-socioeconomics-of-denim-authenticity-counter-culture-and-localism)**

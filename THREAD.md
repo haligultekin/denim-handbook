@@ -1,6 +1,16 @@
 # The Anatomy of Thread: What Holds Your Jeans Together
 
-The structural integrity of a denim garment depends heavily on the type of thread used to sew it. The thread you choose doesn't just dictate how long your jeans will last—it also plays a huge role in how they look as they age and fade over time!
+> **Chapter 3 of 10** | **[⬅️ Previous: Fabric & Weave](FABRIC.md)** · [🏠 Handbook Home](README.md) · **[Next: Hardware & Fasteners ➡️](HARDWARE.md)**
+
+---
+
+## Table of Contents
+1. [Core vs. Cotton: Balancing Authenticity and Strength](#1-core-vs-cotton-balancing-authenticity-and-strength)
+2. [Two-Tone Stitching and Historic Colorways](#2-two-tone-stitching-and-historic-colorways)
+3. [Understanding Tex Sizing (Thread Thickness)](#3-understanding-tex-sizing-thread-thickness)
+4. [Mechanical Dynamics: Thread Twist and the Roping Effect](#4-mechanical-dynamics-thread-twist-and-the-roping-effect)
+5. [Wartime Thread Conservation: The Painted Arcuate](#5-wartime-thread-conservation-the-painted-arcuate)
+6. [Washing, Bleaching, and Chemical Reactions](#6-washing-bleaching-and-chemical-reactions)
 
 ---
 
@@ -13,7 +23,7 @@ The biggest decision in thread selection is balancing historical authenticity ag
 
 ---
 
-## 2. Two-Tone Stitching & Historic Colorways
+## 2. Two-Tone Stitching and Historic Colorways
 
 Classic five-pocket jeans are famously sewn using two distinct thread colors on the same garment: **Golden Yellow ("Lemon")** and **Deep Orange ("Tobacco" / Copper)**.
 
@@ -35,7 +45,7 @@ In industrial manufacturing, thread thickness is measured using the **Tex** syst
 
 ---
 
-## 4. Mechanical Dynamics: Thread Twist & The "Roping Effect"
+## 4. Mechanical Dynamics: Thread Twist and the Roping Effect
 
 - **Direction of Twist (Z-Twist vs. S-Twist):** Most industrial sewing threads feature a "Z-twist" (spun to the right), which prevents the plies from untwisting as the needle rapidly moves up and down through dense fabric plies.
 - **The Union Special 43200G & Hemming Physics:** The famous "roping" fade along the leg opening of vintage jeans is actually caused by the sewing thread interacting with a mechanical quirk of the machine! The feed dogs of vintage cylinder-bed hemmers feed the lower denim ply slightly faster than the upper presser foot feeds the top ply. This creates a tiny, rhythmic skew in the folded hem. When the cotton thread and denim are washed, the thread shrinks and pulls that skew into a permanent, helical coil that fades like a twisted rope under daily wear.
@@ -53,3 +63,7 @@ During World War II, thread was heavily rationed by the US War Production Board 
 The fiber composition of your thread drastically changes how it responds to post-wash finishing:
 
 - **The Polyester Bleach Resistance:** Synthetic polyester is impervious to standard hypochlorite bleach. If a garment sewn with poly-core thread is subjected to an aggressive vintage bleach wash, the indigo cotton fabric will strip to pure white, but the polyester core thread will maintain its bright golden-orange color! For garments intended for heavy bleaching or overdyeing, 100% cotton thread is required so that seams fade at the exact same rate as the denim body.
+
+---
+
+> **Chapter 3 of 10** | **[⬅️ Previous: Fabric & Weave](FABRIC.md)** · [🏠 Handbook Home](README.md) · **[Next: Hardware & Fasteners ➡️](HARDWARE.md)**

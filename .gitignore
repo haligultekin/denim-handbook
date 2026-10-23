@@ -1,0 +1,15 @@
+# Static Site Generator Build Output
+site/
+.cache/
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# OS Metadata
+.DS_Store
+Thumbs.db

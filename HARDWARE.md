@@ -1,6 +1,14 @@
 # The Nuts & Bolts: Hardware and Fasteners
 
-Think of hardware as the structural foundation of your jeans. Because early workwear took a massive beating, standard cotton thread just wasn't enough to hold the seams together under stress. This problem led directly to one of the most famous inventions in clothing history: the copper rivet.
+> **Chapter 4 of 10** | **[⬅️ Previous: Thread & Stitching](THREAD.md)** · [🏠 Handbook Home](README.md) · **[Next: Machinery & Looms ➡️](MACHINES.md)**
+
+---
+
+## Table of Contents
+1. [Rivets: The Architecture of Seam Reinforcement](#1-rivets-the-architecture-of-seam-reinforcement)
+2. [Tack Buttons: Waistband Closures and Shank Mechanics](#2-tack-buttons-waistband-closures-and-shank-mechanics)
+3. [The Fly Closure: Button vs. Zip](#3-the-fly-closure-button-vs-zip)
+4. [Supplementary Fasteners: Cinch Buckles and Suspender Buttons](#4-supplementary-fasteners-cinch-buckles-and-suspender-buttons)
 
 ---
 
@@ -16,7 +24,7 @@ Rivets are the metal studs punched through high-stress points (pocket corners, f
 
 ---
 
-## 2. Tack Buttons: Waistband Closures & Shank Mechanics
+## 2. Tack Buttons: Waistband Closures and Shank Mechanics
 
 You won't find flat, sewn-on dress shirt buttons on a proper pair of jeans. Denim uses two-piece metal tack buttons that punch through multiple layers of heavy waistband denim and lock onto a barbed post.
 
@@ -38,7 +46,11 @@ The choice between a button fly and a zipper fly changes how jeans fit, drape, a
 
 ---
 
-## 4. Supplementary Fasteners: Cinch Buckles & Suspender Buttons
+## 4. Supplementary Fasteners: Cinch Buckles and Suspender Buttons
 
 - **Buckle-Back Cinches:** Found on pre-1940s waist overalls. A small horizontal strap with a pronged metal buckle at the rear waistband allowed wearers to adjust fit without a belt. Early buckles featured sharp two-prong steel teeth that pierced directly through the fabric strap; later versions adopted safer slide-buckle designs.
 - **Suspender (Brace) Buttons:** Before belt loops were introduced in 1922, waist overalls were held up exclusively with suspenders. Six metal tack buttons (four in front, two in back) were riveted directly along the waistband perimeter. Levi's continued including suspender buttons alongside belt loops until 1937, when customers began cutting them off with wire cutters!
+
+---
+
+> **Chapter 4 of 10** | **[⬅️ Previous: Thread & Stitching](THREAD.md)** · [🏠 Handbook Home](README.md) · **[Next: Machinery & Looms ➡️](MACHINES.md)**

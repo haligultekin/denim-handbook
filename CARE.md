@@ -1,10 +1,19 @@
 # The Ultimate Denim Care & Preservation Guide
 
-There's a lot of myth and mystery out there about how to properly care for raw denim. This guide breaks down the empirical facts on how to clean, maintain, and structurally preserve your favorite jeans, helping you achieve high-contrast fades while maximizing fabric longevity.
+> **Chapter 7 of 10** | **[⬅️ Previous: Pattern Drafting & Construction](PATTERN.md)** · [🏠 Handbook Home](README.md) · **[Next: Lexicon & Glossary ➡️](GLOSSARY.md)**
 
 ---
 
-## 1. The Pre-Soak (For Unsanforized / Loomstate Denim Only)
+## Table of Contents
+1. [The Pre-Soak for Unsanforized and Loomstate Denim](#1-the-pre-soak-for-unsanforized-and-loomstate-denim)
+2. [Understanding Leg Twist and Twill Torque](#2-understanding-leg-twist-and-twill-torque)
+3. [Routine Washing and Maintenance](#3-routine-washing-and-maintenance)
+4. [Preservation, Repair, and Folk Craft](#4-preservation-repair-and-folk-craft)
+5. [Busting Common Denim Myths](#5-busting-common-denim-myths)
+
+---
+
+## 1. The Pre-Soak for Unsanforized and Loomstate Denim
 
 If your new jeans are cut from unsanforized ("loomstate") denim, you must give them an initial soak before wearing, hemming, or altering them!
 
@@ -16,7 +25,7 @@ If your new jeans are cut from unsanforized ("loomstate") denim, you must give t
 
 ---
 
-## 2. Understanding "Leg Twist" & Twill Torque
+## 2. Understanding Leg Twist and Twill Torque
 
 When unsanforized jeans are soaked for the first time, you will often notice that the outseams rotate diagonally toward the front of your ankles. This is called **leg twist**.
 
@@ -38,7 +47,7 @@ Letting dirt, grit, skin cells, and sweat accumulate inside the denim weave is t
 
 ---
 
-## 4. Preservation, Repair & Folk Craft
+## 4. Preservation, Repair, and Folk Craft
 
 - **Catch Blowouts Early:** Inspect the crotch, pocket bags, and hem folds regularly. The moment you see the fabric thinning or weft threads beginning to separate, repair it immediately. Small reinforcements prevent catastrophic rips that require massive patch jobs later.
 - **Machine Darning:** The modern standard for invisible reinforcement. Using a free-motion straight-stitch machine, a skilled tailor lays down a lightweight cotton backing fabric beneath the fray and weaves thousands of tiny stitches parallel to the warp and weft, rebuilding the lost cotton matrix.
@@ -57,3 +66,7 @@ Letting dirt, grit, skin cells, and sweat accumulate inside the denim weave is t
 - **The Six-Month Rule Myth:**
   * *The Claim:* You must wear jeans for at least six months without washing to get good fades.
   * *The Reality:* Delaying the first wash does create sharper, high-contrast honeycombs and whiskers because the indigo is abraded dry off the high creases. However, delaying too long without washing weakens the cotton and invites crotch blowouts. If you wear your jeans hard or in warm weather, wash them whenever they are dirty—moderately washed raw denim develops beautiful, vintage-style blue-sky fades without sacrificing fabric lifespan!
+
+---
+
+> **Chapter 7 of 10** | **[⬅️ Previous: Pattern Drafting & Construction](PATTERN.md)** · [🏠 Handbook Home](README.md) · **[Next: Lexicon & Glossary ➡️](GLOSSARY.md)**

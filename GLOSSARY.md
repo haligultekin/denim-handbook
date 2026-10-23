@@ -1,6 +1,16 @@
 # The Denim Enthusiast's Glossary
 
-Diving into the world of raw denim means learning a whole new language. From the loom floor to vintage archives and fading competitions, here is a comprehensive breakdown of the essential terms you'll hear in the community, explained simply.
+> **Chapter 8 of 10** | **[⬅️ Previous: Care & Maintenance](CARE.md)** · [🏠 Handbook Home](README.md) · **[Next: Reference Library ➡️](COMMUNITY.md)**
+
+---
+
+## Table of Contents
+1. [Fabric and Weaving Fundamentals](#1-fabric-and-weaving-fundamentals)
+2. [Dyeing, Chemistry, and Color](#2-dyeing-chemistry-and-color)
+3. [Garment Anatomy and Hardware](#3-garment-anatomy-and-hardware)
+4. [Jackets and Heritage Silhouettes](#4-jackets-and-heritage-silhouettes)
+5. [The Art of Fading and Wear (Atari)](#5-the-art-of-fading-and-wear-atari)
+6. [Vintage and Restoration Terminology](#6-vintage-and-restoration-terminology)
 
 ---
 
@@ -22,7 +32,7 @@ Diving into the world of raw denim means learning a whole new language. From the
 
 ---
 
-## 2. Dyeing, Chemistry & Color
+## 2. Dyeing, Chemistry, and Color
 
 - **Ring Dyeing:** The hallmark of true denim warp yarn. Because indigo molecules are large and oxidize quickly, they do not penetrate all the way through to the cotton fiber core. The outside is stained deep indigo while the center remains pure white. As surface dye rubs away, that white core is exposed, creating the iconic fade.
 - **Leuco-Indigo:** The chemically reduced, water-soluble form of indigo found inside dye vats. It is actually a pale yellow-green color!
@@ -35,7 +45,7 @@ Diving into the world of raw denim means learning a whole new language. From the
 
 ---
 
-## 3. Garment Anatomy & Hardware
+## 3. Garment Anatomy and Hardware
 
 - **Arcuate:** The signature double-arched decorative stitching on back pockets, famously patented by Levi Strauss & Co. in 1873.
 - **Lazy S:** The wavy horizontal stitching found on Lee back pockets, officially registered in 1944.
@@ -53,7 +63,7 @@ Diving into the world of raw denim means learning a whole new language. From the
 
 ---
 
-## 4. Jackets & Heritage Silhouettes
+## 4. Jackets and Heritage Silhouettes
 
 - **Type I Jacket:** Levi's iconic 1905–1953 blouse (Lot 506XX). Recognizable by its single left chest pocket, dual front vertical pleats, boxy cut, and rear cinch-buckle.
 - **Type II Jacket:** Introduced in 1953 (Lot 507XX). Features two chest pockets, front pleats, and button-tab waist adjusters instead of the rear cinch.
@@ -63,7 +73,7 @@ Diving into the world of raw denim means learning a whole new language. From the
 
 ---
 
-## 5. The Art of Fading & Wear (Atari)
+## 5. The Art of Fading and Wear (Atari)
 
 - **Atari:** The Japanese word for "fade." It refers to the beautiful way the indigo dye rubs off the raised edges and creases of your jeans over time.
 - **Whiskers (Hige):** The horizontal fade lines that fan out across the lap and upper thighs, created naturally just by sitting down and bending your legs.
@@ -76,9 +86,13 @@ Diving into the world of raw denim means learning a whole new language. From the
 
 ---
 
-## 6. Vintage & Restoration Terminology
+## 6. Vintage and Restoration Terminology
 
 - **Deadstock (NOS):** New Old Stock. Original vintage garments that were manufactured decades ago but remained unsold, unworn, and unwashed in factory packaging or stockroom shelving.
 - **Boro:** A traditional Japanese folk textile art born from necessity, where worn garments and futon covers are continuously patched, mended, and layered with indigo scraps over generations.
 - **Sashiko:** "Little stabs." Traditional Japanese functional hand-stitching with thick white cotton thread used to reinforce high-wear points, repair tears, and add decorative geometric strength.
 - **Darning:** Industrial mending method using a free-motion straight-stitch machine to weave dense threads back and forth across a blowout, rebuilding the structural foundation of frayed denim.
+
+---
+
+> **Chapter 8 of 10** | **[⬅️ Previous: Care & Maintenance](CARE.md)** · [🏠 Handbook Home](README.md) · **[Next: Reference Library ➡️](COMMUNITY.md)**

@@ -1,6 +1,31 @@
 # Denim Fabric and Textile Engineering
 
-Getting to know your denim means diving into how it's woven, how heavy it is, and what it's made of. Let's break down the technical side of the fabric we love.
+> **Chapter 2 of 10** | **[⬅️ Previous: History](HISTORY.md)** · [🏠 Handbook Home](README.md) · **[Next: Thread & Stitching ➡️](THREAD.md)**
+
+---
+
+## Table of Contents
+1. [Denim Weights](#denim-weights)
+2. [Weave Structures & Visual Diagrams](#weave-structures)
+   - [Right Hand Twill (RHT)](#right-hand-twill-rht)
+   - [Left Hand Twill (LHT)](#left-hand-twill-lht)
+   - [Broken Twill](#broken-twill)
+3. [How the Yarn is Spun](#how-the-yarn-is-spun)
+4. [Spotting Real Selvedge](#spotting-real-selvedge)
+5. [Famous Denim Mills Around the World](#famous-denim-mills-around-the-world)
+   - [Japan](#japan-the-vintage-masters)
+   - [Turkey](#turkey-the-eco-innovators)
+   - [Italy](#italy-luxury-craftsmanship)
+   - [United States](#united-states-the-historic-roots)
+   - [United Kingdom & Europe](#united-kingdom-europe-micro-batch-heritage-revival)
+6. [The Stretch Denim Revolution & COREVA™](#the-stretch-denim-revolution-corevatm)
+7. [Denim Recycling Challenges](#denim-recycling-challenges)
+8. [Dyeing Innovations & Technology](#dyeing-innovations-technology)
+   - [The Continuous Dye Range (Touchstone Apparatus, 1921)](#the-continuous-dye-range-touchstone-apparatus-1921)
+   - [Skying & The Aeration Cycle](#skying-the-aeration-cycle)
+   - [Tokushima's Living "Jigoku-Date" Fermentation](#tokushimas-living-jigoku-date-fermentation)
+
+---
 
 ## Denim Weights
 Denim is weighed in ounces per square yard (oz). The weight is a huge deal—it changes how tough the jeans are, how warm they keep you, and how stiff they feel.
@@ -9,10 +34,29 @@ Denim is weighed in ounces per square yard (oz). The weight is a huge deal—it 
 - **Heavyweight (16 oz - 32 oz):** Built like armor for extreme durability and warmth. These beasts are stiff at first, but because they crease so sharply at your joints, they produce some of the most incredible, high-contrast fades imaginable.
 
 ## Weave Structures
-The way the cotton is woven makes a huge difference in how the jeans feel and age.
-- **Right Hand Twill (RHT):** The classic weave, made famous by Levi's. The diagonal lines go up from bottom-left to top-right. It's woven tight and flat, which gives you crisp, sharp fades over time.
-- **Left Hand Twill (LHT):** Championed by Lee, the diagonal lines go up from bottom-right to top-left. Because this matches the natural twist of the cotton yarn, it feels much softer right off the bat and creates fades that are a bit softer and more blurred.
-- **Broken Twill:** Invented by Wrangler in 1964 to stop jeans from annoyingly twisting around your leg after a wash. The weave zig-zags back and forth, balancing out the tension and keeping the legs nice and straight.
+The way the cotton is woven makes a huge difference in how the jeans feel and age. Classic denim is a **3x1 twill**, meaning three indigo warp threads float over each undyed white weft thread:
+
+### Twill Direction Schematics
+
+```text
+Right Hand Twill (RHT)          Left Hand Twill (LHT)           Broken Twill (Anti-Twist)
+Diagonal: ↗ (Bottom-L to Top-R)  Diagonal: ↖ (Bottom-R to Top-L)  Diagonal: Zig-Zag / Chevron
+
+  Warp: [■][■][■][ ]             Warp: [ ][■][■][■]             Warp: [■][■][ ][■]
+        [■][■][ ][■]                   [■][■][■][ ]                   [■][ ][■][■]
+        [■][ ][■][■]                   [■][■][ ][■]                   [■][■][ ][■]
+        [ ][■][■][■]                   [■][ ][■][■]                   [ ][■][■][■]
+(Tight, crisp, sharp fades)      (Softer drape, hazy fades)     (Balances torque, no leg twist)
+```
+
+#### Right Hand Twill (RHT)
+The classic weave, made famous by Levi's. The diagonal lines go up from bottom-left to top-right (`/`). It's woven tight and flat, which gives you crisp, sharp fades over time.
+
+#### Left Hand Twill (LHT)
+Championed by Lee, the diagonal lines go up from bottom-right to top-left (`\`). Because this matches the natural twist of S-twist cotton yarn, it feels much softer right off the bat and creates fades that are softer and more blurred.
+
+#### Broken Twill
+Invented by Wrangler in 1964 to stop jeans from annoyingly twisting around your leg after a wash. The weave zig-zags back and forth, balancing out the tension and keeping the legs nice and straight.
 
 ## How the Yarn is Spun
 How they twist the raw cotton into yarn completely changes the character of the fabric.
@@ -67,8 +111,20 @@ We all love the idea of turning old jeans into new jeans, but recycling denim is
 
 ## Dyeing Innovations & Technology
 The denim industry is notorious for its heavy water and chemical use, but both historical breakthroughs and modern eco-innovations have continuously transformed how we apply indigo to cotton.
-- **The Continuous Dye Range (Touchstone Apparatus, 1921):** Before the 1920s, warp yarns were dipped by hand or in small, temperamental batch vats that frequently produced streaky, discolored fabric. White Oak revolutionized the industry by commercializing the Touchstone continuous long-chain compound dye range. By pulling thousands of warp yarns through a rhythmic series of chemical reduction vats, squeeze rollers, and tall oxidizing "skyer" towers, the process standardized deep, uniform indigo saturation across miles of yarn—establishing the worldwide standard for industrial rope dyeing.
-- **Skying & The Aeration Cycle:** Why does rope dyeing require massive open-air towers? Indigo in its chemically reduced state (*leuco-indigo*) is actually a soluble yellow-green liquid. It only turns blue when exposed to oxygen. In the dye house, "Sky Tenders" guide the drenched yarn ropes high above the vats into towering **skying ranges**. The atmospheric oxygen oxidizes the leuco-indigo into insoluble blue pigment that gets trapped physically inside the outer walls of the cotton yarn, leaving the core pure white (the "ring-dyeing" effect essential for high-contrast fading).
-- **Tokushima's Living "Jigoku-Date" Fermentation:** In Tokushima, Japan, master dyers (such as the artisan collective Buaisou) preserve a 700-year-old living indigo tradition. Using Japanese indigo (*Polygonum tinctorium*), leaves are composted for 120 days in the *nedoko* ("bedroom") to create **sukumo**. In the spring, the vat is brought to life using the **Jigoku-Date** ("producing hell") recipe—mixing sukumo with wood ash lye (*aku*), calcium hydroxide shell lime (*shikkui*), and wheat bran (*fusuma*) to nourish anaerobic bacteria. The resulting living microbial fermentation binds indigo to cotton with astonishing permanence, allowing freshly dyed cloth to be washed in hot water immediately without bleeding.
+
+### The Continuous Dye Range (Touchstone Apparatus, 1921)
+Before the 1920s, warp yarns were dipped by hand or in small, temperamental batch vats that frequently produced streaky, discolored fabric. White Oak revolutionized the industry by commercializing the Touchstone continuous long-chain compound dye range. By pulling thousands of warp yarns through a rhythmic series of chemical reduction vats, squeeze rollers, and tall oxidizing "skyer" towers, the process standardized deep, uniform indigo saturation across miles of yarn—establishing the worldwide standard for industrial rope dyeing.
+
+### Skying & The Aeration Cycle
+Why does rope dyeing require massive open-air towers? Indigo in its chemically reduced state (*leuco-indigo*) is actually a soluble yellow-green liquid. It only turns blue when exposed to oxygen. In the dye house, "Sky Tenders" guide the drenched yarn ropes high above the vats into towering **skying ranges**. The atmospheric oxygen oxidizes the leuco-indigo into insoluble blue pigment that gets trapped physically inside the outer walls of the cotton yarn, leaving the core pure white (the "ring-dyeing" effect essential for high-contrast fading).
+
+### Tokushima's Living "Jigoku-Date" Fermentation
+In Tokushima, Japan, master dyers (such as the artisan collective Buaisou) preserve a 700-year-old living indigo tradition. Using Japanese indigo (*Polygonum tinctorium*), leaves are composted for 120 days in the *nedoko* ("bedroom") to create **sukumo**. In the spring, the vat is brought to life using the **Jigoku-Date** ("producing hell") recipe—mixing sukumo with wood ash lye (*aku*), calcium hydroxide shell lime (*shikkui*), and wheat bran (*fusuma*) to nourish anaerobic bacteria. The resulting living microbial fermentation binds indigo to cotton with astonishing permanence, allowing freshly dyed cloth to be washed in hot water immediately without bleeding.
+
+### Modern Low-Impact Dyeing Methods
 - **Nitrogen Dyeing (N-Denim):** Developed by the eco-conscious wizards at Candiani, this process uses nitrogen gas to help the indigo dye penetrate the cotton yarn deeper and faster. It massively cuts down the number of dye baths required, saving a ton of water and chemicals while resulting in incredibly rich colors.
 - **Crystal Clear Dyeing:** Another massive leap forward, this technique is a waterless and saltless dyeing method. By rethinking the chemistry of how indigo binds to cotton, mills can now achieve those deep, beautiful blues without dumping vast amounts of salty, polluted wastewater into the environment.
+
+---
+
+> **Chapter 2 of 10** | **[⬅️ Previous: History](HISTORY.md)** · [🏠 Handbook Home](README.md) · **[Next: Thread & Stitching ➡️](THREAD.md)**

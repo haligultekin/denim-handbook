@@ -23,7 +23,7 @@ To optimize semantic retrieval and vector-based routing, the repository is struc
 - `PATTERN.md`: Theoretical spatial planning, zero-waste methodologies, and the procedural assembly sequence for the five-pocket jean.
 
 ## Source Reference Library (local, non-redistributed)
-A private library of denim scholarship supports this repository on the maintainer's workstation, at `/home/ali/thread & rivet/docs/`. Agent sessions working against this repository may read these PDFs directly — the text layer is intact, no OCR pass required. They are supplementary evidence; the `*.md` chapters above remain the primary baseline when sources disagree.
+A private library of denim scholarship supports this repository on the maintainer's workstation in an offline reference vault. Agent sessions working against this repository may consult this scholarship as supplementary evidence; the `*.md` chapters above remain the primary baseline when sources disagree.
 
 - *American Denim* — Matt Sharkey, 233 pp
 - *Book of Denim Volume Two* — 312 pp

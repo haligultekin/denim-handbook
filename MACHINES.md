@@ -1,8 +1,16 @@
 # The Engine Room: Denim Machinery
 
-Making a pair of jeans requires some serious hardware. Denim is incredibly dense, and stacking multiple layers together means your average home sewing machine will likely snap a needle or burn out its motor trying to punch through. 
+> **Chapter 5 of 10** | **[⬅️ Previous: Hardware & Fasteners](HARDWARE.md)** · [🏠 Handbook Home](README.md) · **[Next: Pattern Drafting & Construction ➡️](PATTERN.md)**
 
-Here is a look at the heavy-duty industrial machines that make authentic denim possible, plus a few tips for home sewists looking to tackle their own projects.
+---
+
+## Table of Contents
+1. [The Holy Grail: Vintage Industrial Machines](#the-holy-grail-vintage-industrial-machines)
+2. [Upstream Textile Mechanics: Looms, Warpers, and Slashers](#upstream-textile-mechanics-looms-warpers-and-slashers)
+3. [Bringing it Home: Domestic Alternatives](#bringing-it-home-domestic-alternatives)
+4. [Tips for Sewing Denim at Home](#tips-for-sewing-denim-at-home)
+
+---
 
 ## The Holy Grail: Vintage Industrial Machines
 These machines are the legends of vintage manufacturing. For brands trying to recreate historically accurate denim, finding and keeping these machines running is an absolute must.
@@ -13,7 +21,7 @@ These machines are the legends of vintage manufacturing. For brands trying to re
 - **Reece 101 (The Buttonhole Machine):** A complicated marvel of engineering dedicated to one job: cutting and binding "keyhole" shaped buttonholes. It provides the thick, structured edge needed to support heavy metal tack buttons.
 - **Singer 114w103 (The Chainstitch Embroidery Machine):** A hand-guided chainstitch machine used to draw the classic decorative arcs on back pockets, or to stitch custom typography on jackets. 
 
-## Upstream Textile Mechanics: Looms, Warpers & Slashers
+## Upstream Textile Mechanics: Looms, Warpers, and Slashers
 Before a single stitch is sewn, denim fabric itself is born on heavy, rhythmic industrial machinery:
 
 - **Draper X-3 Shuttle Looms:** The crown jewel of 20th-century American selvedge denim, most famous for their long tenure on the maple floors of White Oak. These narrow-width looms use wooden shuttles shot back and forth through the warp shed, naturally looping the weft yarn at each edge to produce authentic selvedge.
@@ -33,3 +41,7 @@ If you're bravely tackling denim on a home machine, follow these golden rules to
 - **Use the Right Needle:** Always use thick, heavy-gauge needles made specifically for denim (like Schmetz Denim needles in size 100/16 or 110/18). Standard needles will snap instantly.
 - **Hand-Crank the Tough Spots:** When you hit a thick intersection (like where the inseam meets the crotch—sometimes up to nine layers of fabric!), take your foot off the pedal. Turn the handwheel manually to walk the needle through the mountain of fabric.
 - **Flatten the Seams:** Before you stitch over those thick multi-layer humps, smash them down! Use a heavy iron and steam, or literally beat the seam flat with a wooden tailor's clapper or a hammer. Giving your presser foot a flatter surface to glide over makes all the difference.
+
+---
+
+> **Chapter 5 of 10** | **[⬅️ Previous: Hardware & Fasteners](HARDWARE.md)** · [🏠 Handbook Home](README.md) · **[Next: Pattern Drafting & Construction ➡️](PATTERN.md)**

@@ -1,0 +1,51 @@
+name: Deploy Documentation
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Cache Dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-mkdocs-${{ hashFiles('mkdocs.yml') }}
+          restore-keys: |
+            ${{ runner.os }}-mkdocs-
+
+      - name: Install Documentation Dependencies
+        run: |
+          pip install mkdocs-material
+
+      - name: Ensure Docs Tree Symlinks
+        run: |
+          mkdir -p docs
+          cd docs
+          ln -sf ../README.md README.md
+          for f in HISTORY.md FABRIC.md THREAD.md HARDWARE.md MACHINES.md PATTERN.md CARE.md GLOSSARY.md COMMUNITY.md SOCIOECONOMICS.md; do
+            ln -sf "../$f" "$f"
+          done
+          ln -sf ../patterns patterns
+          cd ..
+
+      - name: Deploy to GitHub Pages
+        run: |
+          mkdocs gh-deploy --force
