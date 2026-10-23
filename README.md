@@ -42,3 +42,21 @@ The core bibliography and curated reference index. Catalogs foundational histori
 
 ### 10. [Sociology & Economics: Authenticity and Localism](SOCIOECONOMICS.md)
 An analysis of the sociohistorical phenomena surrounding denim. This document synthesizes academic research regarding the Japanese "mingei" connection to denim authenticity, and examines the Kojima Jeans District as a successful case study in "slow fashion" localism, industrial regeneration, and value-over-volume clustering.
+
+---
+
+## License
+
+This project is an open-source educational resource licensed under the **Creative Commons Attribution-ShareAlike 4.0 International Public License (CC BY-SA 4.0)**.
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+You are free to:
+- **Share:** Copy and redistribute the material in any medium or format.
+- **Adapt:** Remix, transform, and build upon the material for any purpose, including commercially.
+
+Under the following terms:
+- **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+See the full legal code in [`LICENSE`](LICENSE).
