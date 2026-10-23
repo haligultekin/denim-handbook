@@ -1,6 +1,23 @@
-# Supplementary Resources & Archives
+# Essential Reference Library, Archives & Community Resources
 
-Welcome to the ultimate denimhead's resource list! Here you'll find a hand-picked collection of open-source materials, archives, and expert deep-dives into the history and making of our favorite fabric.
+Welcome to the ultimate denimhead's reference library and resource directory! Here you'll find a hand-picked collection of foundational literature, open-source archives, masterclasses, and documentary deep-dives into the history, engineering, and cultural impact of our favorite fabric.
+
+## Essential Literature & Foundational Reference Books
+
+For makers, researchers, and dedicated denimheads seeking deeper ground truth, these cornerstone texts document the machinery, social movements, and industrial heritage of denim:
+
+- **[American Denim (2025)]** — Matt Sharkey (Schiffer Publishing Ltd., Foreword by Evan Morrison & Ralph B. Tharpe Jr.).
+  *An intimate, definitive photographic and industrial record of Cone Denim's legendary White Oak Cotton Mill in Greensboro, North Carolina. Documents the plant from its 1905 construction and 1915 "Golden Handshake" with Levi Strauss & Co. through the 1921 invention of the Touchstone continuous indigo dye range, the mechanical operation of its famous Draper X-3 shuttle looms, and the plant's poignant permanent closure in December 2017.*
+- **[Book of Denim: Volume Two (2018/2019)]** — Peter van Rhoon (Amsterdam Publishing International).
+  *A global journalistic journey through contemporary artisanal indigo and avant-garde denim craft. Features in-depth profiles on European woad (*Isatis tinctoria*) revival in Paris, Daniel Harris restoring Victorian iron shuttle looms at the London Cloth Company, Hitoshi Tsujimoto's museum-grade WWII archival reproduction philosophy at The Real McCoy's, and Benzak Denim Developers engineering bespoke Japanese selvedge with Collect Mills in Kojima.*
+- **[Denim: From Cowboys to Catwalks (2002)]** — Paul Trynka & Graham Marsh (Aurum Press).
+  *The definitive cultural and archival history of jeans from workwear to high fashion. Unpacks Jacob Davis and Levi Strauss's 1873 patent (No. 139,121), the earliest surviving 1880s Amoskeag all-white selvedge overalls, the rise of Lee's 101Z cowboy cuts and Wrangler's saddle-ready 11MW, the 1950s rocker and rebel boom, the 1960s civil rights movement, and an essential vintage identification glossary (arcuates, cinch backs, hidden rivets).*
+- **[Yankee Denim Dandies (1974)]** — Barbara Fehr (Designed by Jane Eschweiler, Piper Publishing, Inc.).
+  *A rare early-1970s cultural time-capsule capturing denim's transition into counter-culture and folk art. Documents H.D. Lee's 1913 invention of the "Union-All" for a stranded auto mechanic, Blue Bell's late-1940s "Jeanie" women's line, and authentic 1970s DIY upcycling patterns (crafting 8-panel newsboy caps and fly-zipper bow ties from worn-out jeans, acrylic hand-painting, and patchwork applique).*
+- **[Fashion Design: Delirious Denim (流行时尚设计 牛仔裤, 2016)]** — Liaoning Science & Technology Publishing.
+  *An extensive 400+ page technical pattern and visual reference catalog. Breaks down historical garment silhouettes (Type I/II/III jackets, overalls, straight, bootcut, and barrel cuts), pocket geometry, and provides technical blueprints for wash recipes, resin-curing, hand-sanded 3D whiskers, and honeycomb abrasion.*
+- **[The Denim Manual (2019)]** — Fashionary.
+  *A heavily illustrated technical compendium covering fabric libraries, wash and distressing terminology, garment anatomy, decades timelines, and practical maintenance guides.*
 
 ## Video Archives and Masterclasses
 - **[Mohsin Sajid (Endrime) Masterclasses & Lectures](https://www.youtube.com/@denimworldco)** ([@mohsinsajid](https://instagram.com/mohsinsajid)): An incredible resource for learning about zero-waste cutting, technical pattern drafting, and getting a close look at the mechanics of industrial sewing machinery.

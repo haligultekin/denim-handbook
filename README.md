@@ -37,8 +37,8 @@ An empirical guide to the maintenance of raw denim. It details the requisite ini
 ### 8. [Lexicon of Denim Terminology](GLOSSARY.md)
 A specialized dictionary defining the technical vocabulary of denim production, encompassing textile terms (Warp, Weft, Slub, Nep) and degradation patterns (Honeycombs, Whiskers, Roping, Stacks).
 
-### 9. [Academic and Community Resources](COMMUNITY.md)
-A curated index of supplementary educational materials. It provides references to lectures by textile historians, documentaries regarding sustainable manufacturing, and independent technical resources.
+### 9. [Essential Reference Library & Community Resources](COMMUNITY.md)
+The core bibliography and curated reference index. Catalogs foundational historical literature (such as Matt Sharkey's *American Denim*, Trynka & Marsh's *From Cowboys to Catwalks*, and Fehr's *Yankee Denim Dandies*), visual technical catalogs, academic lectures, documentary archives, and active enthusiast communities.
 
 ### 10. [Sociology & Economics: Authenticity and Localism](SOCIOECONOMICS.md)
 An analysis of the sociohistorical phenomena surrounding denim. This document synthesizes academic research regarding the Japanese "mingei" connection to denim authenticity, and examines the Kojima Jeans District as a successful case study in "slow fashion" localism, industrial regeneration, and value-over-volume clustering.

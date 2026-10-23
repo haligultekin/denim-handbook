@@ -47,7 +47,12 @@ Knowing where your denim was woven tells you a lot about its history and charact
 - **Artistic Milliners (Pakistan):** A fully integrated mega-facility that proves you can produce on a massive scale while keeping things green and LEED-certified.
 
 ### United States (The Historic Roots)
-- **Cone Denim (White Oak):** The stuff of legends. They were famous for running the historic **Draper X3** shuttle looms, which were the exclusive source of Levi's selvedge denim until the plant sadly closed its doors in 2017.
+- **Amoskeag Manufacturing Company (Manchester, NH):** The earliest industrial supplier to Levi Strauss & Co. throughout the 1870s and 1880s. Known for unbleached, all-white selvedge denim dyed with natural vegetable indigo, which aged into a unique greenish-blue cast.
+- **Cone Denim (White Oak, Greensboro, NC):** The stuff of legends. Operating from 1905 until December 31, 2017, White Oak was the exclusive source of Levi's "XX" selvedge denim for over a century. A key secret to its distinctive fabric character was its **Draper X-3 shuttle looms** mounted directly onto tongue-and-groove maple timber flooring—the wood absorbed the rhythmic mechanical vibrations of the flying wooden shuttles, imparting a subtle, organic micro-variation into the selvedge edge tension. In 1921, White Oak also gave the world the **Touchstone continuous long-chain compound dye range**, ending streaky indigo vats forever.
+
+### United Kingdom & Europe (Micro-Batch & Heritage Revival)
+- **London Cloth Company (UK):** Founded by Daniel Harris, this boutique mill rescued and restored vintage cast-iron Victorian shuttle looms, weaving micro-batch British selvedge denim with rich textural quirks.
+- **French Woad Revival (*Isatis tinctoria*):** A growing movement of artisanal European ateliers reviving medieval woad-vat dyeing, creating soft, pastel-to-mid blue hues free from petroleum-derived synthetic indigo.
 
 ## The Stretch Denim Revolution & COREVA™
 Stretch denim changed the game in the 70s and 80s by weaving synthetic elastane (like spandex) into the cotton. While it made skinny fits incredibly comfortable, those synthetic fibers are basically plastic, making the jeans a nightmare for the environment and impossible to compost.
@@ -60,7 +65,8 @@ We all love the idea of turning old jeans into new jeans, but recycling denim is
 - **Prestress History:** The surviving fibers aren't just short; they're exhausted. They carry a "prestress history" from years of wear, washing, and fading, making them super fragile. 
 - **The Color Conundrum:** Denim is famously woven with indigo warp threads and white weft threads. Once you shred a pair of jeans, separating those blue and white fibers is impossible, and bleaching them back to pure white just destroys them further. The result? Recyclers just have to accept whatever murky blue-grey color they end up with and blend it with strong virgin cotton to make anything usable.
 
-## Modern Dyeing Innovations
-The denim industry is notorious for its heavy water and chemical use, but some truly brilliant innovations are changing the game to make our favorite blue fabrics far greener.
+## Dyeing Innovations & Technology
+The denim industry is notorious for its heavy water and chemical use, but both historical breakthroughs and modern eco-innovations have continuously transformed how we apply indigo to cotton.
+- **The Continuous Dye Range (Touchstone Apparatus, 1921):** Before the 1920s, warp yarns were dipped by hand or in small, temperamental batch vats that frequently produced streaky, discolored fabric. White Oak revolutionized the industry by commercializing the Touchstone continuous long-chain compound dye range. By pulling thousands of warp yarns through a rhythmic series of chemical reduction vats, squeeze rollers, and tall oxidizing "skyer" towers, the process standardized deep, uniform indigo saturation across miles of yarn—establishing the worldwide standard for industrial rope dyeing.
 - **Nitrogen Dyeing (N-Denim):** Developed by the eco-conscious wizards at Candiani, this process uses nitrogen gas to help the indigo dye penetrate the cotton yarn deeper and faster. It massively cuts down the number of dye baths required, saving a ton of water and chemicals while resulting in incredibly rich colors.
 - **Crystal Clear Dyeing:** Another massive leap forward, this technique is a waterless and saltless dyeing method. By rethinking the chemistry of how indigo binds to cotton, mills can now achieve those deep, beautiful blues without dumping vast amounts of salty, polluted wastewater into the environment.

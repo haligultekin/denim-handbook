@@ -13,6 +13,14 @@ These machines are the legends of vintage manufacturing. For brands trying to re
 - **Reece 101 (The Buttonhole Machine):** A complicated marvel of engineering dedicated to one job: cutting and binding "keyhole" shaped buttonholes. It provides the thick, structured edge needed to support heavy metal tack buttons.
 - **Singer 114w103 (The Chainstitch Embroidery Machine):** A hand-guided chainstitch machine used to draw the classic decorative arcs on back pockets, or to stitch custom typography on jackets. 
 
+## Upstream Textile Mechanics: Looms, Warpers & Slashers
+Before a single stitch is sewn, denim fabric itself is born on heavy, rhythmic industrial machinery:
+
+- **Draper X-3 Shuttle Looms:** The crown jewel of 20th-century American selvedge denim, most famous for their long tenure on the maple floors of White Oak. These narrow-width looms use wooden shuttles shot back and forth through the warp shed, naturally looping the weft yarn at each edge to produce authentic selvedge.
+- **Ball Warpers and Creels:** Heavy steel creels hold hundreds of individual cotton yarn spools, feeding them simultaneously into a rotating ball warper. This bundles hundreds of strands into long, thick "ropes" ready for the continuous indigo dye tanks.
+- **Slashing and Beaming Frames:** Indigo-dyed warp yarns are passed through a hot starch-and-binder bath (a process called "slashing") which protects the fibers from abrasion. They are then wound under precise tension onto giant cylindrical loom beams by slasher tenders, ready to be mounted on the looms.
+- **Restored Victorian Shuttle Looms:** Historic cast-iron power looms (such as 19th-century British Hattersley or Hodgson models) preserved by independent weavers, running at low mechanical tension to produce ultra-textured, heritage cloth.
+
 ## Bringing it Home: Domestic Alternatives
 If you don't have a factory floor at your disposal, don't worry! There are a few heavy-duty home sewing machines with enough torque and strong enough gears to handle denim.
 
