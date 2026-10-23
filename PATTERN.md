@@ -84,8 +84,7 @@ Denim makers have always hated wasting good fabric. During the 1970s counter-cul
 ---
 
 ## Digital Pattern Archives & CAD Downloads
-Looking for ready-to-print vector blocks? Visit the **[Pattern Archive](patterns/INDEX.md)** for detailed drafting notes, or download the direct vector assets:
-- **[1974 8-Panel Upcycled Newsboy Cap Block (SVG)](patterns/1974_newsboy_cap_8panel.svg)** — 1:1 scale zero-waste upcycling pattern for scrap and leg denim.
+Visit the **[Pattern Archive](patterns/INDEX.md)** for drafting standards, format guides, and historical archetype references. Contributions of verified vector CAD files (.DXF/.SVG) and print-ready PDFs are welcomed via pull request.
 
 ---
 
