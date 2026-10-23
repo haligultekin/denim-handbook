@@ -85,7 +85,6 @@ Denim makers have always hated wasting good fabric. During the 1970s counter-cul
 
 ## Digital Pattern Archives & CAD Downloads
 Looking for ready-to-print vector blocks? Visit the **[Pattern Archive](patterns/INDEX.md)** for detailed drafting notes, or download the direct vector assets:
-- **[1947 Five-Pocket Jean Block & Selvedge Lay Plan (SVG)](patterns/1947_five_pocket_jean_block.svg)** — Definitive mid-century straight leg nesting schematic on 30" selvedge denim.
 - **[1974 8-Panel Upcycled Newsboy Cap Block (SVG)](patterns/1974_newsboy_cap_8panel.svg)** — 1:1 scale zero-waste upcycling pattern for scrap and leg denim.
 
 ---

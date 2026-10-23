@@ -12,7 +12,6 @@
 
 ## Table of Contents
 1. [Available Open-Source Vector Patterns](#1-available-open-source-vector-patterns)
-   - [1947 Classic Five-Pocket Pattern Block and Lay Plan](#1947-classic-five-pocket-pattern-block-and-lay-plan)
    - [1974 8-Panel Upcycled Newsboy Cap Block](#1974-8-panel-upcycled-newsboy-cap-block)
 2. [Supported File Formats and Workflow](#2-supported-file-formats-and-workflow)
 3. [Historical Blueprint Archetypes Reference](#3-historical-blueprint-archetypes-reference)
@@ -23,19 +22,6 @@
 ## 1. Available Open-Source Vector Patterns
 
 All patterns in this archive are released under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**. They can be opened in open-source vector software (Inkscape), commercial CAD (Illustrator, Clo3D, Optitex), sent directly to CNC fabric laser cutters, or projected onto cutting tables.
-
-### 1947 Classic Five-Pocket Pattern Block and Lay Plan
-- **File:** [`1947_five_pocket_jean_block.svg`](./1947_five_pocket_jean_block.svg)
-- **Archetype:** Post-WWII mid-century straight leg 5-pocket jeans on narrow (29"–30") shuttle-loom selvedge yardage.
-- **Components Included:**
-  - Front Leg Block with pocket scoop and fly facing extension.
-  - Back Leg Block with angled yoke seam and crotch extension curve.
-  - Rear Yokes (Pair) drafted for lap-felled joining.
-  - Rear Shield Patch Pockets (Pair) with concealed rivet clearance and arcuate placement guides.
-  - Coin / Watch Pocket with selvedge edge fold guide.
-  - One-Piece Continuous Waistband Strip on grain.
-  - Belt Loop tape layout and Pocket Bag templates.
-- **Fabric Efficiency:** Illustrates the tight interlocking nesting required on narrow looms where outer side seams run completely straight along the woven selvedge ticker.
 
 ### 1974 8-Panel Upcycled Newsboy Cap Block
 - **File:** [`1974_newsboy_cap_8panel.svg`](./1974_newsboy_cap_8panel.svg)
