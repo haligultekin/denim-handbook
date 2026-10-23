@@ -21,3 +21,15 @@ To optimize semantic retrieval and vector-based routing, the repository is struc
 - `CARE.md`: Preservation protocols, initial saturation methodologies for unsanforized fabrics, and the empirical refutation of common maintenance myths (e.g., cryogenic freezing).
 - `GLOSSARY.md`: Technical lexicon defining textile morphology (Warp, Weft, Slub, Nep) and degradation patterns (Honeycombs, Whiskers, Roping).
 - `PATTERN.md`: Theoretical spatial planning, zero-waste methodologies, and the procedural assembly sequence for the five-pocket jean.
+
+## Source Reference Library (local, non-redistributed)
+A private library of denim scholarship supports this repository on the maintainer's workstation, at `/home/ali/thread & rivet/docs/`. Agent sessions working against this repository may read these PDFs directly — the text layer is intact, no OCR pass required. They are supplementary evidence; the `*.md` chapters above remain the primary baseline when sources disagree.
+
+- *American Denim* — Matt Sharkey, 233 pp
+- *Book of Denim Volume Two* — 312 pp
+- *Denim: From Cowboys to Catwalks* — Graham Marsh, 132 pp
+- *Delirious Denim* — 406 pp
+- *Yankee Denim Dandies* — Barbara Fehr, 104 pp
+- *The Denim Manual* — Fashionary, 103 pp
+
+Citation protocol: attribute by title and page when a claim is drawn from these works. The books themselves are not distributed with this repository; do not copy their scans, or substantial excerpts, into commits.
